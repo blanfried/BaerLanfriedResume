@@ -68,12 +68,12 @@ let resumeData = {
       "skillname":"Coding"
     }
   ],
-  // "portfolio":[
-  //   {
-  //     "name":"project1",
-  //     "description":"mobileapp",
-  //     "imgurl":"images/portfolio/phone.jpg"
-  //   },
+  "portfolio":[
+    {
+      "name":"SCA-Rental",
+      "description":"Car Rental Agency https://github.com/blanfried/SCA-Rental",
+    }
+  ]
   //   {
   //     "name":"project2",
   //     "description":"mobileapp",
