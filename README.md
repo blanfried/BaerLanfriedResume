@@ -9,6 +9,10 @@ This is my REACT Portfolio
 ### Githup Repository URL
 https://github.com/blanfried/blanfried_REACT_Portfolio
 
+### Usage
+- Clone repository
+- npm install
+- npm run start
 
 # Getting Started with Create React App
 
