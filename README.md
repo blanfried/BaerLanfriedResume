@@ -9,6 +9,9 @@ This is my REACT Portfolio
 ### Githup Repository URL
 https://github.com/blanfried/blanfried_REACT_Portfolio
 
+### Video Presentation Link
+https://drive.google.com/file/d/1LlQLKdDlqb8kDqWxcoWuZcAAYohYup3t/view?usp=share_link
+
 ### Usage
 - Clone repository
 - npm install
