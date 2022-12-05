@@ -1,19 +1,25 @@
 {
-  "name": "blanfried_react_portfolio",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "resume",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-scripts": "2.1.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/blanfried/blanfried_REACT_Portfolio.git"
+  "eslintConfig": {
+    "extends": "react-app"
   },
-  "author": "Baer Lanfried",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/blanfried/blanfried_REACT_Portfolio/issues"
-  },
-  "homepage": "https://github.com/blanfried/blanfried_REACT_Portfolio#readme"
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
