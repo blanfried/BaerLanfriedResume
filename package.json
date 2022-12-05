@@ -1,0 +1,19 @@
+{
+  "name": "blanfried_react_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blanfried/blanfried_REACT_Portfolio.git"
+  },
+  "author": "Baer Lanfried",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blanfried/blanfried_REACT_Portfolio/issues"
+  },
+  "homepage": "https://github.com/blanfried/blanfried_REACT_Portfolio#readme"
+}
