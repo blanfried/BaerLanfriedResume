@@ -41,22 +41,15 @@ let resumeData = {
       "Achievements":"MA"
     }
   ],
-  // "work":[
-  //   {
-  //     "CompanyName":"Some Company",
-  //     "specialization":"Some specialization",
-  //     "MonthOfLeaving":"Jan",
-  //     "YearOfLeaving":"2018",
-  //     "Achievements":"Some Achievements"
-  //   },
-  //   {
-  //     "CompanyName":"Some Company",
-  //     "specialization":"Some specialization",
-  //     "MonthOfLeaving":"Jan",
-  //     "YearOfLeaving":"2018",
-  //     "Achievements":"Some Achievements"
-  //   }
-  // ],
+  "work":[
+    {
+      "CompanyName":"Vineyards Bordeaux",
+      "specialization":"Intern",
+      "MonthOfLeaving":"June",
+      "YearOfLeaving":"2018",
+      "Achievements":"Experience"
+    },
+  ],
   "skills":[
     {
       "skillname":"Conversing"
