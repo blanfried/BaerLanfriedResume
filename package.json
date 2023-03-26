@@ -2,22 +2,16 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://blanfried.github.io/blanfried_react_app",
   "dependencies": {
-    "gh-pages": "^4.0.0",
-    "netlify-cli": "^12.2.8",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.1.1",
-    "serve": "^14.1.2"
+    "react-scripts": "2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"

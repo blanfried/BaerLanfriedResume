@@ -1,9 +1,12 @@
 let resumeData = {
   "imagebaseurl":"https://github.com/blanfried",
   "name": "Baer Lanfried",
-  "role": "Philosopher and Full-Stack Developer",
+  "number": "+1 (949) 439-8667",
+  "primaryEmail": "blanfried@yahoo.com",
+  "secondaryEmail": "blanfried@gmail.com",
+  "role": "Philosopher, Writer, Editor, and Full-Stack Developer.",
   "linkedinId":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
-  "roleDescription": "I enjoy coding and working out, reading, or playing board games in my free time",
+  "roleDescription": " This is a webpage entirely devoted to moi-même (myself).",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -16,22 +19,29 @@ let resumeData = {
         "className":"fa fa-github"
       }
     ],
-  "aboutme":"I have just finished a MA in philosophy of religion and ethics in the UK at the University of Birmingham. During the MA I started a coding bootcamp and am now looking for full-stack web development or software development jobs.",
-  "address":"California",
+  "aboutme":"Currently living in New York City after having lived in the UK and France for the past six years. Working as a part-time bookseller and looking for work as a writer, editor, or software developer.",
+  "address":"4 Manhattan Avenue, New York, NY 10025, USA",
   "education":[
     {
       "UniversityName":"American University of Paris",
       "specialization":"Philosophy",
-      "MonthOfPassing":"June",
+      "MonthOfPassing":"May",
       "YearOfPassing":"2020",
       "Achievements":"BA"
     },
     {
       "UniversityName":"American University of Paris",
       "specialization":"Psychology",
-      "MonthOfPassing":"June",
+      "MonthOfPassing":"May",
       "YearOfPassing":"2020",
       "Achievements":"BA"
+    },
+    {
+      "UniversityName":"International TEFL Training Institute",
+      "specialization":"Teaching English as a Foreign Language",
+      "MonthOfPassing":"June",
+      "YearOfPassing":"2020",
+      "Achievements":"Certification"
     },
     {
       "UniversityName":"University of Birmingham",
@@ -39,46 +49,85 @@ let resumeData = {
       "MonthOfPassing":"December",
       "YearOfPassing":"2022",
       "Achievements":"MA"
-    }
-  ],
-  "work":[
-    {
-      "CompanyName":"Vineyards Bordeaux",
-      "specialization":"Intern",
-      "MonthOfLeaving":"June",
-      "YearOfLeaving":"2018",
-      "Achievements":"Experience"
-    },
-  ],
-  "skills":[
-    {
-      "skillname":"Conversing"
     },
     {
-      "skillname":"Philosophy"
-    },
-    {
-      "skillname":"Coding"
+      "UniversityName":"University of Birmingham",
+      "specialization":"Full-Stack Coding Bootcamp",
+      "MonthOfPassing":"December",
+      "YearOfPassing":"2022",
+      "Achievements":"Certification"
     }
   ],
-  "portfolio":[
-    {
-      "name":"SCA-Rental",
-      "description":"Car Rental Agency https://github.com/blanfried/SCA-Rental",
-      "imgurl":"images/portfolio/project.jpg"
-    }
-  ],
+  // "work":[
+  //   {
+  //     "CompanyName":"Some Company",
+  //     "specialization":"Some specialization",
+  //     "MonthOfLeaving":"Jan",
+  //     "YearOfLeaving":"2018",
+  //     "Achievements":"Some Achievements"
+  //   },
+  //   {
+  //     "CompanyName":"Some Company",
+  //     "specialization":"Some specialization",
+  //     "MonthOfLeaving":"Jan",
+  //     "YearOfLeaving":"2018",
+  //     "Achievements":"Some Achievements"
+  //   }
+  // ],
   
-  "testimonials":[
+  "skills":[
+    // If add a skill, change corresponding css class in layout under skill bars
     {
-      "description":"Just such a good guy",
-      "name":"Baer's friend"
+      "skillname":"Interpersonal"
     },
     {
-      "description":"Seriously cool dude",
-      "name":"Baer's other friend"
+      "skillname":"Problem-Solving"
+    },
+    {
+      "skillname":"Writing"
+    },
+    {
+      "skillname":"Editing"
+    },
+    {
+      "skillname":"Software-Development"
+    },
+    {
+      "skillname":"Video-Editing"
     }
-  ]
+  ],
+  // "portfolio":[
+  //   {
+  //     "name":"project1",
+  //     "description":"mobileapp",
+  //     "imgurl":"images/portfolio/phone.jpg"
+  //   },
+  //   {
+  //     "name":"project2",
+  //     "description":"mobileapp",
+  //     "imgurl":"images/portfolio/project.jpg"
+  //   },
+  //   {
+  //     "name":"project3",
+  //     "description":"mobileapp",  
+  //     "imgurl":"images/portfolio/project2.png"
+  //   },
+  //   {
+  //     "name":"project4",
+  //     "description":"mobileapp",
+  //     "imgurl":"images/portfolio/phone.jpg"
+  //   }
+  // ],
+  // "testimonials":[
+  //   {
+  //     "description":"This is a sample testimonial",
+  //     "name":"Some technical guy"
+  //   },
+  //   {
+  //     "description":"This is a sample testimonial",
+  //     "name":"Some technical guy"
+  //   }
+  // ]
 }
 
 export default resumeData
