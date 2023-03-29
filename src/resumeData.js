@@ -19,7 +19,7 @@ let resumeData = {
         "className":"fa fa-github"
       }
     ],
-  "aboutme":"Currently living in New York City after having lived in the UK and France for the past six years. Working as a part-time bookseller and looking for work as a writer, editor, or software developer.",
+  "aboutme":"Currently living in New York City after having lived in the UK and France for the past six years. Working as a part-time bookseller and looking for work as a writer, editor, or software developer. Languages: English | French | Spanish",
   "address":"4 Manhattan Avenue, New York, NY 10025, USA",
   "education":[
     {
@@ -58,22 +58,43 @@ let resumeData = {
       "Achievements":"Certification"
     }
   ],
-  // "work":[
-  //   {
-  //     "CompanyName":"Some Company",
-  //     "specialization":"Some specialization",
-  //     "MonthOfLeaving":"Jan",
-  //     "YearOfLeaving":"2018",
-  //     "Achievements":"Some Achievements"
-  //   },
-  //   {
-  //     "CompanyName":"Some Company",
-  //     "specialization":"Some specialization",
-  //     "MonthOfLeaving":"Jan",
-  //     "YearOfLeaving":"2018",
-  //     "Achievements":"Some Achievements"
-  //   }
-  // ],
+  "work":[
+    {
+      "CompanyName":"Mysterious Bookshop",
+      "specialization":"Part-time Bookseller",
+      "MonthOfLeaving":"Jan 2023 -",
+      "YearOfLeaving":"April 2023",
+      "Achievements":" Sold books, made recommendations, re-shelved/organized books in a presentable way, worked cash register and dealt with customers effectively and professionally."
+    },
+    {
+      "CompanyName":"Mysterious Bookshop",
+      "specialization":"Part-time Bookseller",
+      "MonthOfLeaving":"Jan 2023 -",
+      "YearOfLeaving":"April 2023",
+      "Achievements":" Sold books, made recommendations, re-shelved/organized books in a presentable way, worked cash register and dealt with customers effectively and professionally."
+    },
+    {
+      "CompanyName":"Mysterious Bookshop",
+      "specialization":"Part-time Bookseller",
+      "MonthOfLeaving":"Jan 2023 -",
+      "YearOfLeaving":"April 2023",
+      "Achievements":" Sold books, made recommendations, re-shelved/organized books in a presentable way, worked cash register and dealt with customers effectively and professionally."
+    },
+    {
+      "CompanyName":"Mysterious Bookshop",
+      "specialization":"Part-time Bookseller",
+      "MonthOfLeaving":"Jan 2023 -",
+      "YearOfLeaving":"April 2023",
+      "Achievements":" Sold books, made recommendations, re-shelved/organized books in a presentable way, worked cash register and dealt with customers effectively and professionally."
+    },
+    {
+      "CompanyName":"Mysterious Bookshop",
+      "specialization":"Part-time Bookseller",
+      "MonthOfLeaving":"Jan 2023 -",
+      "YearOfLeaving":"April 2023",
+      "Achievements":" Sold books, made recommendations, re-shelved/organized books in a presentable way, worked cash register and dealt with customers effectively and professionally."
+    }
+  ],
   
   "skills":[
     // If add a skill, change corresponding css class in layout under skill bars
@@ -96,38 +117,40 @@ let resumeData = {
       "skillname":"Video-Editing"
     }
   ],
-  // "portfolio":[
-  //   {
-  //     "name":"project1",
-  //     "description":"mobileapp",
-  //     "imgurl":"images/portfolio/phone.jpg"
-  //   },
-  //   {
-  //     "name":"project2",
-  //     "description":"mobileapp",
-  //     "imgurl":"images/portfolio/project.jpg"
-  //   },
-  //   {
-  //     "name":"project3",
-  //     "description":"mobileapp",  
-  //     "imgurl":"images/portfolio/project2.png"
-  //   },
-  //   {
-  //     "name":"project4",
-  //     "description":"mobileapp",
-  //     "imgurl":"images/portfolio/phone.jpg"
-  //   }
-  // ],
-  // "testimonials":[
-  //   {
-  //     "description":"This is a sample testimonial",
-  //     "name":"Some technical guy"
-  //   },
-  //   {
-  //     "description":"This is a sample testimonial",
-  //     "name":"Some technical guy"
-  //   }
-  // ]
+  "portfolio":[
+    {
+      "name":"Oso Adventurous",
+      "description":"Travel Youtube Channel",
+      "imgurl":"./images/OsoProfPic.png",
+      "url":"https://www.youtube.com/@OsoAdventurous/videos"
+    },
+    {
+      "name":"Oso Blog",
+      "description":"My Blog Site",
+      "imgurl":"./images/BlogSite.png",
+      "url": "https://github.com/blanfried/Baer-Blogsite"
+    },
+    {
+      "name":"project3",
+      "description":"mobileapp",  
+      "imgurl":"images/portfolio/project2.png"
+    },
+    {
+      "name":"project4",
+      "description":"mobileapp",
+      "imgurl":"images/portfolio/phone.jpg"
+    }
+  ],
+  "testimonials":[
+    {
+      "description":"This is a sample testimonial",
+      "name":"Some technical guy"
+    },
+    {
+      "description":"This is a sample testimonial",
+      "name":"Some technical guy"
+    }
+  ]
 }
 
 export default resumeData
