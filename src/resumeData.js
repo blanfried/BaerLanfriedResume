@@ -78,7 +78,7 @@ let resumeData = {
       "specialization":"English Teacher",
       "MonthOfLeaving":"August 2020 -",
       "YearOfLeaving":"August 2022",
-      "Achievements":"Full-time private english teacher to adults and teenagers of all different levels in Biarritz, France. Part-time during my MA for one year. Also aided in writing, editing, and proofreading students’ professional assignments."
+      "Achievements":"Full-time private english teacher to adults and teenagers of all different levels in Biarritz, France. Part-time during my MA for one year. Aside from teaching, I aided in writing, editing, and proofreading students’ professional assignments."
     },
     {
       "CompanyName":"The American University of Paris",
@@ -92,7 +92,7 @@ let resumeData = {
       "specialization":"Editorial Assistant",
       "MonthOfLeaving":"September 2019 -",
       "YearOfLeaving":"May 2020",
-      "Achievements":"Edited/proofread articles, provided feedback, and published one of my short stories"
+      "Achievements":"Edited/proofread articles, provided feedback, and published one of my short stories in the 2020 issue."
     },
     {
       "CompanyName":"“Let’s Talk About God” Club and Radio Show",
@@ -127,7 +127,7 @@ let resumeData = {
       "specialization":"Busser/Polisher",
       "MonthOfLeaving":"April 2016 -",
       "YearOfLeaving":"August 2016",
-      "Achievements":"Bussed and Polished at a high-end Italian Restaurant in Newport Beach, CA"
+      "Achievements":"Bussed and Polished at a high-end Italian Restaurant in Newport Beach, CA."
     },
     {
       "CompanyName":"City of Newport Beach",
@@ -212,15 +212,35 @@ let resumeData = {
   ],
     "testimonials":[
     {
-      "description":"\"Global Professional Skills Honour\"",
+      "description":"\"Mr. Lanfried would be amongst the top percentile of interns that we have experienced, not just because of his skill set, but above all due to his personality, reliability and willingness to do whatever it takes in a team environment. He would be an asset to any employer, and I have no hesitation to recommend him for any endeavor he chooses to pursue.\"",
+      "name":"Michael Baynes (Executive Partner of Maxwell-Baynes, Christie's International Real Estate"
+    },
+    {
+      "description":"\"[Baer] proved himself to be an extremely reliable and diligent participant, and produced work of excellent quality. He never missed a class, never came late or unprepared, never missed a deadline, and always had completed the heavy readings and other homework…I can wholeheartedly recommend Baer Lanfried—I would love to have him as a colleague or, when he is ready for such a role, as a supervisor.\"",
+      "name":"Dr. habil. Jula Wildberger (Professor of Classics and Comparative Literature at The American University of Paris)"
+    },
+    {
+      "description":"\"I have had the pleasure of working side by side with Baer. As part of our select team of highly qualified student writers, his working relationship with his academic peers was marked by his sincere interest in each student and his sensitivity to their immediate writing needs; additionally, Baer’s professionalism as a worker and a team player was exemplary.\"",
+      "name":"Ann Mott (Professor, Department of Comparative Literature and English Director, Writing Lab"
+    },
+    {
+      "description":"\"Baer [is] an interesting, studious, and dedicated student with great communication skills. As an assistant he was very well organized, diligent and was able work independently. His personality and communication skills were much appreciated at our University Library. All these skills are very valuable, and that is why I allow myself to recommend Baer Lanfried. I am confident that he will undertake his new challenges with enthusiasm and rigor.\"",
+      "name":"Jorge Sosa, MSLS (University Librarian / Directeur de la Bibliothèque Universitaire at The American University of Paris)"
+    },
+    {
+      "description":"\"[Baer] displays confidence without any sense of arrogance and, in my estimation, is a humble man who listens and learns. I believe that he would prove to be an asset to any organization that he would align himself with.\"",
+      "name":"Mark Shaffer (Assistant General Manager at KWVE Radio)"
+    },
+    {
+      "description":"Global Professional Skills Honour",
       "name":"The American University of Paris"
     },
     {
-      "description":"Provost's List (May 2020)",
+      "description":"Provost's List (2020)",
       "name":"The American University of Paris"
     },
     {
-      "description":"Provost's List (May 2019)",
+      "description":"Provost's List (2019)",
       "name":"The American University of Paris"
     }
   ]
