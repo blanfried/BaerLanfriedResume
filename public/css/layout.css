@@ -659,11 +659,12 @@ call-to-action .button {
    letter-spacing: 3px;
    color: #fff;
 }
+/* To return quotes mark in testimonial's section, uncomment "content". I removed because I wanted it to be awards as well and testimonials so the quotes symbol didn't make sense. */
 #testimonials h1 span { display: none; }
 #testimonials .header-col { padding-top: 9px; }
 #testimonials .header-col h1:before {
    font-family: 'FontAwesome';
-   content: "\f10d";
+   /* content: "\f10d";  */
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;
