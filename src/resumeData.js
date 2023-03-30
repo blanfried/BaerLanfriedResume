@@ -117,13 +117,8 @@ let resumeData = {
       "skillname":"Video-Editing"
     }
   ],
+  // Photos need to be 1280 x 720. Otherwise it will not look as clean.
   "portfolio":[
-    {
-      "name":"Oso Adventurous",
-      "description":"Travel Youtube Channel",
-      "imgurl":"./images/OsoProfPic.png",
-      "url":"https://www.youtube.com/@OsoAdventurous/videos"
-    },
     {
       "name":"Oso Blog",
       "description":"My Blog Site",
@@ -131,24 +126,34 @@ let resumeData = {
       "url": "https://github.com/blanfried/Baer-Blogsite"
     },
     {
-      "name":"project3",
-      "description":"mobileapp",  
-      "imgurl":"images/portfolio/project2.png"
+      "name":"Academia Profile",
+      "description":"My Academic Writing",
+      "imgurl":"./images/AcademiaPic.png",
+      "url": "https://birmingham.academia.edu/BaerLanfried"
     },
     {
-      "name":"project4",
-      "description":"mobileapp",
-      "imgurl":"./images/portfolio/coffee.jpg"
-    }
-  ],
-  "testimonials":[
-    {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
+      "name":"SCA Car Rental Website",
+      "description":"Bootcamp Project Lead on Car Rental Website",
+      "imgurl":"./images/SCARentalpic.png",
+      "url": "https://github.com/blanfried/SCA-Rental"
     },
     {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
+      "name":"Oso Adventurous",
+      "description":"My Travel Youtube Channel",
+      "imgurl":"./images/OsoProfPic.png",
+      "url":"https://www.youtube.com/@OsoAdventurous/videos"
+    },
+    {
+      "name":"Oso Adventurous",
+      "description":"My Travel Youtube Channel",
+      "imgurl":"./images/OsoProfPic.png",
+      "url":"https://www.youtube.com/@OsoAdventurous/videos"
+    },
+    {
+      "name":"Oso Adventurous",
+      "description":"My Travel Youtube Channel",
+      "imgurl":"./images/OsoProfPic.png",
+      "url":"https://www.youtube.com/@OsoAdventurous/videos"
     }
   ]
 }
