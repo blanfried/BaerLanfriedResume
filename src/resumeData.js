@@ -120,8 +120,14 @@ let resumeData = {
   // Photos need to be 1280 x 720. Otherwise it will not look as clean.
   "portfolio":[
     {
+      "name":"Oso Adventurous",
+      "description":"My Travel Youtube Channel",
+      "imgurl":"./images/OsoProfPic.png",
+      "url":"https://www.youtube.com/@OsoAdventurous/videos"
+    },
+    {
       "name":"Oso Blog",
-      "description":"My Blog Site",
+      "description":"My Blog Site (Coming Soon)",
       "imgurl":"./images/BlogSite.png",
       "url": "https://github.com/blanfried/Baer-Blogsite"
     },
@@ -132,28 +138,44 @@ let resumeData = {
       "url": "https://birmingham.academia.edu/BaerLanfried"
     },
     {
+      "name":"Fakebook",
+      "description":"Collaboratively Created A MERN Stack Facebook Clone",
+      "imgurl":"./images/FakebookPic.png",
+      "url":"https://github.com/TheInfamousGrim/Fakebook"
+    },
+    {
       "name":"SCA Car Rental Website",
-      "description":"Bootcamp Project Lead on Car Rental Website",
+      "description":"Bootcamp Project Lead On A Full-Stack Car Rental Website",
       "imgurl":"./images/SCARentalpic.png",
       "url": "https://github.com/blanfried/SCA-Rental"
     },
     {
-      "name":"Oso Adventurous",
-      "description":"My Travel Youtube Channel",
-      "imgurl":"./images/OsoProfPic.png",
-      "url":"https://www.youtube.com/@OsoAdventurous/videos"
+      "name":"Note Taker",
+      "description":"Solo Full-Stack Application Project",
+      "imgurl":"./images/NoteTakerPic.png",
+      "url":"https://github.com/blanfried/Notes_App"
     },
     {
-      "name":"Oso Adventurous",
-      "description":"My Travel Youtube Channel",
-      "imgurl":"./images/OsoProfPic.png",
-      "url":"https://www.youtube.com/@OsoAdventurous/videos"
+      "name":"Social Network API",
+      "description":"Solo JavaScript Backend Project",
+      "imgurl":"./images/SocialNetworkAPIPic.png",
+      "url":"https://github.com/blanfried/Social-Network-API"
     },
     {
-      "name":"Oso Adventurous",
-      "description":"My Travel Youtube Channel",
-      "imgurl":"./images/OsoProfPic.png",
-      "url":"https://www.youtube.com/@OsoAdventurous/videos"
+      "name":"Lyric Finder Website",
+      "description":"Bootcamp Project Lead On A Front-End Lyric Finder Website",
+      "imgurl":"./images/LyricsFinderPic.png",
+      "url":"https://github.com/blanfried/Lyric-Finder"
+    }
+  ],
+    "testimonials":[
+    {
+      "description":"This is a sample testimonial",
+      "name":"Some technical guy"
+    },
+    {
+      "description":"This is a sample testimonial",
+      "name":"Some technical guy"
     }
   ]
 }
