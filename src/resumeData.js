@@ -23,6 +23,20 @@ let resumeData = {
   "address":"4 Manhattan Avenue, New York, NY 10025, USA",
   "education":[
     {
+      "UniversityName":"University of Birmingham",
+      "specialization":"Philosophy of Religion and Ethics",
+      "MonthOfPassing":"December",
+      "YearOfPassing":"2022",
+      "Achievements":"MA"
+    },
+    {
+      "UniversityName":"University of Birmingham",
+      "specialization":"Full-Stack Coding Bootcamp",
+      "MonthOfPassing":"December",
+      "YearOfPassing":"2022",
+      "Achievements":"Certification"
+    },
+    {
       "UniversityName":"American University of Paris",
       "specialization":"Philosophy",
       "MonthOfPassing":"May",
@@ -41,20 +55,6 @@ let resumeData = {
       "specialization":"Teaching English as a Foreign Language",
       "MonthOfPassing":"June",
       "YearOfPassing":"2020",
-      "Achievements":"Certification"
-    },
-    {
-      "UniversityName":"University of Birmingham",
-      "specialization":"Philosophy of Religion and Ethics",
-      "MonthOfPassing":"December",
-      "YearOfPassing":"2022",
-      "Achievements":"MA"
-    },
-    {
-      "UniversityName":"University of Birmingham",
-      "specialization":"Full-Stack Coding Bootcamp",
-      "MonthOfPassing":"December",
-      "YearOfPassing":"2022",
       "Achievements":"Certification"
     }
   ],
@@ -138,7 +138,7 @@ let resumeData = {
     {
       "name":"project4",
       "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
+      "imgurl":"./images/portfolio/coffee.jpg"
     }
   ],
   "testimonials":[
