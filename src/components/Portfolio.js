@@ -15,7 +15,7 @@ export default class Porfolio extends Component {
                   <div className="item-wrap">
                   <a href= {`${item.url}`} target="_blank" rel="noopener noreferrer">
                     {/* <a href="#modal-01"> */}
-                      <img src={`${item.imgurl}`}/>
+                      <img src={`${item.imgurl}`} alt="unavailable"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
