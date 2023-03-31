@@ -15,7 +15,7 @@ export default class Header extends Component {
              <li><a className="smoothscroll" href="#resume">Resume</a></li>
                <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
                <li><a className="smoothscroll" href="#testimonials">Testimonials & Awards</a></li>
-               <li><a className="smoothscroll" href="#contact">Contact</a></li>
+               <li><a className="smoothscroll" href="#contact">Final Note</a></li>
             </ul>
          </nav>
 
