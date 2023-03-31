@@ -99,7 +99,7 @@ let resumeData = {
       "specialization":"President/Founder",
       "MonthOfLeaving":"September 2019 -",
       "YearOfLeaving":"May 2020",
-      "Achievements":"Host of radio show which broadcasted to all of Paris and the French Riviera. Organized and mediated oftentimes tense discussions surrounding deeply held beliefs in both club and show. Used charisma and creativity to keep conversation/debate lively and interesting."
+      "Achievements":"Creator and host of a radio show which broadcasted to all of Paris and the French Riviera. Organized and mediated oftentimes tense discussions surrounding deeply held beliefs in both club and show. Used charisma and creativity to keep conversation/debate lively and interesting."
     },
     {
       "CompanyName":"The American University of Paris",
