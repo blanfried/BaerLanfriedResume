@@ -213,7 +213,7 @@ let resumeData = {
     "testimonials":[
     {
       "description":"\"Mr. Lanfried would be amongst the top percentile of interns that we have experienced, not just because of his skill set, but above all due to his personality, reliability and willingness to do whatever it takes in a team environment. He would be an asset to any employer, and I have no hesitation to recommend him for any endeavor he chooses to pursue.\"",
-      "name":"Michael Baynes (Executive Partner of Maxwell-Baynes, Christie's International Real Estate"
+      "name":"Michael Baynes (Executive Partner of Maxwell-Baynes, Christie's International Real Estate)"
     },
     {
       "description":"\"[Baer] proved himself to be an extremely reliable and diligent participant, and produced work of excellent quality. He never missed a class, never came late or unprepared, never missed a deadline, and always had completed the heavy readings and other homework…I can wholeheartedly recommend Baer Lanfried—I would love to have him as a colleague or, when he is ready for such a role, as a supervisor.\"",
@@ -221,7 +221,7 @@ let resumeData = {
     },
     {
       "description":"\"I have had the pleasure of working side by side with Baer. As part of our select team of highly qualified student writers, his working relationship with his academic peers was marked by his sincere interest in each student and his sensitivity to their immediate writing needs; additionally, Baer’s professionalism as a worker and a team player was exemplary.\"",
-      "name":"Ann Mott (Professor, Department of Comparative Literature and English Director, Writing Lab"
+      "name":"Ann Mott (Professor, Department of Comparative Literature and English Director, Writing Lab)"
     },
     {
       "description":"\"Baer [is] an interesting, studious, and dedicated student with great communication skills. As an assistant he was very well organized, diligent and was able work independently. His personality and communication skills were much appreciated at our University Library. All these skills are very valuable, and that is why I allow myself to recommend Baer Lanfried. I am confident that he will undertake his new challenges with enthusiasm and rigor.\"",
