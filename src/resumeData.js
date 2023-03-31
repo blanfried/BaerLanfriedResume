@@ -23,14 +23,14 @@ let resumeData = {
   "address":"4 Manhattan Avenue, New York, NY 10025, USA",
   "education":[
     {
-      "UniversityName":"University of Birmingham",
+      "UniversityName":"University of Birmingham (UK)",
       "specialization":"Philosophy of Religion and Ethics",
       "MonthOfPassing":"December",
       "YearOfPassing":"2022",
       "Achievements":"MA"
     },
     {
-      "UniversityName":"University of Birmingham",
+      "UniversityName":"University of Birmingham (UK)",
       "specialization":"Full-Stack Coding Bootcamp",
       "MonthOfPassing":"December",
       "YearOfPassing":"2022",
