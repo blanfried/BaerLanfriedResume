@@ -68,17 +68,17 @@ let resumeData = {
     },
     {
       "CompanyName":"Mysterious Bookshop",
-      "specialization":"Part-time Bookseller",
+      "specialization":"Part-Time Bookseller",
       "MonthOfLeaving":"Jan 2023 -",
       "YearOfLeaving":"April 2023",
       "Achievements":"Sold books, made recommendations, re-shelved/organized books in a presentable way, worked cash register and dealt with customers effectively and professionally."
     },
     {
       "CompanyName":"Freelance",
-      "specialization":"English Teacher",
+      "specialization":"Full-Time Private Editor/English Teacher",
       "MonthOfLeaving":"August 2020 -",
       "YearOfLeaving":"August 2022",
-      "Achievements":"Full-time private english teacher to adults and teenagers of all different levels in Biarritz, France. Part-time during my MA for one year. Aside from teaching, I aided in writing, editing, and proofreading students’ professional assignments."
+      "Achievements":"Hired to proofread, edit, and help write certain professional assignments (Presentations, Reports, Articles, etc.). Privately taught English to adults of all different levels."
     },
     {
       "CompanyName":"The American University of Paris",
