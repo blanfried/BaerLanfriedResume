@@ -75,17 +75,17 @@ let resumeData = {
     },
     {
       "CompanyName":"Freelance",
-      "specialization":"Full-Time Private Editor/English Teacher",
+      "specialization":"Full-Time Private Editor & English Teacher",
       "MonthOfLeaving":"August 2020 -",
       "YearOfLeaving":"August 2022",
-      "Achievements":"Hired to proofread, edit, and help write certain professional assignments (Presentations, Reports, Articles, etc.). Privately taught English to adults of all different levels."
+      "Achievements":"Hired to proofread, edit, and help write certain professional assignments (presentations, reports, articles, etc.). Privately taught English to adults of all different levels."
     },
     {
       "CompanyName":"The American University of Paris",
       "specialization":"Writing Tutor",
       "MonthOfLeaving":"September 2019 -",
       "YearOfLeaving":"May 2020",
-      "Achievements":"Edited/proofread academic papers, provided feedback, and guided fellow students to better writing techniques."
+      "Achievements":"Edited and proofread academic papers, provided feedback, and guided fellow students to better writing techniques."
     },
     {
       "CompanyName":"Paris Atlantic Magazine",
