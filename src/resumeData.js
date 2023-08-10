@@ -6,7 +6,7 @@ let resumeData = {
   "secondaryEmail": "blanfried@gmail.com",
   "role": "Philosopher, Writer, Editor, and Full-Stack Developer.",
   "linkedinId":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
-  "roleDescription": " This is a webpage entirely devoted to moi-même (myself). (Webpage created with REACT)",
+  "roleDescription": " This is a webpage entirely devoted to moi-même (myself).",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -20,7 +20,7 @@ let resumeData = {
       }
     ],
   "aboutme":"Currently living in New York City after having lived in the UK and France for the past six years. Currently open to new work opportunities or website development aid requests. Languages: English | French | Spanish",
-  "address":"4 Manhattan Avenue, New York, NY 10025, USA",
+  "address":"716 Quincy St, Brooklyn, NY 11221, USA",
   "education":[
     {
       "UniversityName":"University of Birmingham (UK)",
