@@ -19,7 +19,7 @@ let resumeData = {
         "className":"fa fa-github"
       }
     ],
-  "aboutme":"Currently living in New York City after having lived in the UK and France for the past six years. Working as a part-time bookseller and looking for work as a writer, editor, or software developer. Languages: English | French | Spanish",
+  "aboutme":"Currently living in New York City after having lived in the UK and France for the past six years. Currently open to new work opportunities or website development aid requests. Languages: English | French | Spanish",
   "address":"4 Manhattan Avenue, New York, NY 10025, USA",
   "education":[
     {
