@@ -168,10 +168,10 @@ let resumeData = {
       "url":"https://www.youtube.com/@OsoAdventurous/videos"
     },
     {
-      "name":"Oso Blog",
-      "description":"My Blog Site (Coming Soon)",
+      "name":"Baer Blog",
+      "description":"My Blog Site (More Posts Coming Soon)",
       "imgurl":"./images/BlogSite.png",
-      "url": "https://github.com/blanfried/Baer-Blogsite"
+      "url": "https://www.baerlanfriedblog.com"
     },
     {
       "name":"Academia Profile",
