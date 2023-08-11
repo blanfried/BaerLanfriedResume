@@ -162,10 +162,10 @@ let resumeData = {
   // Photos need to be 1280 x 720. Otherwise it will not look as clean.
   "portfolio":[
     {
-      "name":"Oso Adventurous",
-      "description":"My Travel Youtube Channel",
-      "imgurl":"./images/OsoProfPic.png",
-      "url":"https://www.youtube.com/@OsoAdventurous/videos"
+      "name":"Baer",
+      "description":"My Youtube Channel",
+      "imgurl":"./images/BaerYoutubeProfPic.png",
+      "url":"https://www.youtube.com/@HeyBaer"
     },
     {
       "name":"Baer Blog",
