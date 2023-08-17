@@ -169,31 +169,31 @@ let resumeData = {
     },
     {
       "name":"Baer Blog",
-      "description":"My Blog Site (More Posts Coming Soon) (Sole Developer)",
+      "description":"My Blog Site (More Posts Coming Soon) *Sole Developer",
       "imgurl":"./images/BlogSite.png",
       "url": "https://www.baerlanfriedblog.com"
     },
     {
       "name":"Quixote Farm",
-      "description":"Professional Shopify E-Commerce Website (Sole Developer)",
+      "description":"Professional Shopify E-Commerce Website *Sole Developer",
       "imgurl":"./images/QuixoteFarm.png",
       "url": "https://www.quixotefarm.com"
     },
     {
       "name":"Escape Properties",
-      "description":"Simple Professional Vacation Home Rental Website (Sole Developer)",
+      "description":"Simple Professional Vacation Home Rental Website *Sole Developer",
       "imgurl":"./images/EscapeProperties.png",
       "url": "https://www.escapepropertiesgroup.com"
     },
     {
       "name":"Fakebook",
-      "description":"A MERN Stack Facebook Clone (Collaboration)",
+      "description":"A MERN Stack Facebook Clone *Collaboration",
       "imgurl":"./images/FakebookPic.png",
       "url":"https://agile-taiga-04390.herokuapp.com"
     },
     {
       "name":"SCA Car Rental Website",
-      "description":"A Full-Stack Car Rental Website (Project Lead)",
+      "description":"A Full-Stack Car Rental Website *Project Lead",
       "imgurl":"./images/SCARentalpic.png",
       "url": "https://github.com/blanfried/SCA-Rental"
     },
@@ -205,7 +205,7 @@ let resumeData = {
     },
     {
       "name":"Note Taker",
-      "description":"Note-Taking Full-Stack Application (Sole Developer)",
+      "description":"Note-Taking Full-Stack Application *Sole Developer",
       "imgurl":"./images/NoteTakerPic.png",
       "url":"https://github.com/blanfried/Notes_App"
     }
