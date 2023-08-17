@@ -64,7 +64,7 @@ let resumeData = {
       "specialization":"Full-Stack and CMS",
       "MonthOfLeaving":"June 2022 -",
       "YearOfLeaving":"Present",
-      "Achievements":"Full-Stack web developer. Contracted for Shopify, Hugo, and website creation from scratch."
+      "Achievements":"Previously contracted for website creation from scratch and using Shopify and Hugo."
     },
     {
       "CompanyName":"Baer",
