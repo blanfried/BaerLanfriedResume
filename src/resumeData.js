@@ -14,6 +14,11 @@ let resumeData = {
         "className":"fa fa-linkedin"
       },
       {
+        "name":"Youtube",
+        "url":"https://www.youtube.com/@HeyBaer",
+        "className":"fa fa-youtube"
+      },
+      {
         "name":"github",
         "url":"http://github.com/blanfried",
         "className":"fa fa-github"
