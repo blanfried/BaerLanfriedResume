@@ -4,7 +4,7 @@ let resumeData = {
   "number": "+1 (949) 439-8667",
   "primaryEmail": "blanfried@gmail.com",
   "secondaryEmail": "blanfried@yahoo.com",
-  "role": "Philosopher, Web Developer, Writer, Editor.",
+  "role": "Philosopher | Web Developer | Writer | Editor |",
   "linkedinId":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
   "roleDescription": " This webpage is created by, and devoted to, moi-même (myself).",
   "socialLinks":[
