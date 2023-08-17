@@ -147,13 +147,13 @@ let resumeData = {
       "skillname":"Problem-Solving"
     },
     {
+      "skillname":"Web-Development"
+    },
+    {
       "skillname":"Writing"
     },
     {
       "skillname":"Editing"
-    },
-    {
-      "skillname":"Web-Development"
     },
     {
       "skillname":"Video-Editing"
