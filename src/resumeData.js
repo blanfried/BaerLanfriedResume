@@ -187,13 +187,13 @@ let resumeData = {
     },
     {
       "name":"Fakebook",
-      "description":"A MERN Stack Facebook Clone. *Collaboration",
+      "description":"MERN Stack Facebook Clone. *Collaboration",
       "imgurl":"./images/FakebookPic.png",
       "url":"https://agile-taiga-04390.herokuapp.com"
     },
     {
       "name":"SCA Car Rental Website",
-      "description":"A Full-Stack Car Rental Website. *Project Lead",
+      "description":"Full-Stack Car Rental Website. *Project Lead",
       "imgurl":"./images/SCARentalpic.png",
       "url": "https://github.com/blanfried/SCA-Rental"
     },
