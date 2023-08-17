@@ -175,13 +175,13 @@ let resumeData = {
     },
     {
       "name":"Quixote Farm",
-      "description":"Professional Shopify E-Commerce Website. *Sole Developer",
+      "description":"Shopify E-Commerce Website. *Sole Developer",
       "imgurl":"./images/QuixoteFarm.png",
       "url": "https://www.quixotefarm.com"
     },
     {
       "name":"Escape Properties",
-      "description":"Simple Professional Vacation Home Rental Website. *Sole Developer",
+      "description":"Simple Vacation Home Rental Website. *Sole Developer",
       "imgurl":"./images/EscapeProperties.png",
       "url": "https://www.escapepropertiesgroup.com"
     },
