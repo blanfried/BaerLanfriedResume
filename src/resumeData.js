@@ -67,11 +67,18 @@ let resumeData = {
       "Achievements":"Nearly 160k views and 30,000 hours watched on my YouTube videos (on and off my channel)."
     },
     {
+      "CompanyName":"Freelance",
+      "specialization":"Web Developer",
+      "MonthOfLeaving":"June 2022 -",
+      "YearOfLeaving":"Present",
+      "Achievements":"Full-Stack web developer. Contracted for Shopify, Hugo, and website creation from scratch."
+    },
+    {
       "CompanyName":"Mysterious Bookshop",
       "specialization":"Part-Time Bookseller",
       "MonthOfLeaving":"Jan 2023 -",
       "YearOfLeaving":"April",
-      "Achievements":"A Fun Part-Time job that I worked on Saturdays. I Sold books, made recommendations, re-shelved/organized books in a presentable way, worked cash register and dealt with customers effectively and professionally."
+      "Achievements":"A Fun Part-Time job that I worked on Saturdays. I sold books, made recommendations, re-shelved/organized books in a presentable way, worked cash register and dealt with customers effectively and professionally."
     },
     {
       "CompanyName":"Freelance",
