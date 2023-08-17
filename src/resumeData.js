@@ -60,18 +60,18 @@ let resumeData = {
   ],
   "work":[
     {
-      "CompanyName":"Oso Adventurous",
-      "specialization":"Creator/Travel Vlogger",
-      "MonthOfLeaving":"August 2020 -",
-      "YearOfLeaving":"Present",
-      "Achievements":"Nearly 160k views and 30,000 hours watched on my YouTube videos (on and off my channel)."
-    },
-    {
       "CompanyName":"Freelance Web Developer",
       "specialization":"Full-Stack and CMS",
       "MonthOfLeaving":"June 2022 -",
       "YearOfLeaving":"Present",
       "Achievements":"Full-Stack web developer. Contracted for Shopify, Hugo, and website creation from scratch."
+    },
+    {
+      "CompanyName":"Oso Adventurous",
+      "specialization":"Creator/Travel Vlogger",
+      "MonthOfLeaving":"August 2020 -",
+      "YearOfLeaving":"Present",
+      "Achievements":"Nearly 160k views and 30,000 hours watched on my YouTube videos (on and off my channel)."
     },
     {
       "CompanyName":"Mysterious Bookshop",
