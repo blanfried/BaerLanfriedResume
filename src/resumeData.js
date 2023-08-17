@@ -6,7 +6,7 @@ let resumeData = {
   "secondaryEmail": "blanfried@gmail.com",
   "role": "Philosopher, Writer, Editor, and Full-Stack Developer.",
   "linkedinId":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
-  "roleDescription": " This is a webpage entirely devoted to moi-même (myself).",
+  "roleDescription": " This is a webpage entirely created by, and devoted to, moi-même (myself).",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -169,9 +169,33 @@ let resumeData = {
     },
     {
       "name":"Baer Blog",
-      "description":"My Blog Site (More Posts Coming Soon)",
+      "description":"My Blog Site (More Posts Coming Soon) (Sole Developer)",
       "imgurl":"./images/BlogSite.png",
       "url": "https://www.baerlanfriedblog.com"
+    },
+    {
+      "name":"Quixote Farm",
+      "description":"Professional Shopify E-Commerce Website (Sole Developer)",
+      "imgurl":"./images/QuixoteFarm.png",
+      "url": "https://www.quixotefarm.com"
+    },
+    {
+      "name":"Escape Properties",
+      "description":"Simple Professional Vacation Home Rental Website (Sole Developer)",
+      "imgurl":"./images/EscapeProperties.png",
+      "url": "https://www.escapepropertiesgroup.com"
+    },
+    {
+      "name":"Fakebook",
+      "description":"A MERN Stack Facebook Clone (Collaboration)",
+      "imgurl":"./images/FakebookPic.png",
+      "url":"https://agile-taiga-04390.herokuapp.com"
+    },
+    {
+      "name":"SCA Car Rental Website",
+      "description":"A Full-Stack Car Rental Website (Project Lead)",
+      "imgurl":"./images/SCARentalpic.png",
+      "url": "https://github.com/blanfried/SCA-Rental"
     },
     {
       "name":"Academia Profile",
@@ -180,35 +204,23 @@ let resumeData = {
       "url": "https://birmingham.academia.edu/BaerLanfried"
     },
     {
-      "name":"Fakebook",
-      "description":"Collaboratively Created A MERN Stack Facebook Clone",
-      "imgurl":"./images/FakebookPic.png",
-      "url":"https://github.com/TheInfamousGrim/Fakebook"
-    },
-    {
-      "name":"SCA Car Rental Website",
-      "description":"Bootcamp Project Lead On A Full-Stack Car Rental Website",
-      "imgurl":"./images/SCARentalpic.png",
-      "url": "https://github.com/blanfried/SCA-Rental"
-    },
-    {
       "name":"Note Taker",
-      "description":"Solo Full-Stack Application Project",
+      "description":"Note-Taking Full-Stack Application (Sole Developer)",
       "imgurl":"./images/NoteTakerPic.png",
       "url":"https://github.com/blanfried/Notes_App"
-    },
-    {
-      "name":"Social Network API",
-      "description":"Solo JavaScript Backend Project",
-      "imgurl":"./images/SocialNetworkAPIPic.png",
-      "url":"https://github.com/blanfried/Social-Network-API"
-    },
-    {
-      "name":"Lyric Finder Website",
-      "description":"Bootcamp Project Lead On A Front-End Lyric Finder Website",
-      "imgurl":"./images/LyricsFinderPic.png",
-      "url":"https://github.com/blanfried/Lyric-Finder"
     }
+    // {
+    //   "name":"Social Network API",
+    //   "description":"Solo JavaScript Backend Project",
+    //   "imgurl":"./images/SocialNetworkAPIPic.png",
+    //   "url":"https://github.com/blanfried/Social-Network-API"
+    // },
+    // {
+    //   "name":"Lyric Finder Website",
+    //   "description":"Bootcamp Project Lead On A Front-End Lyric Finder Website",
+    //   "imgurl":"./images/LyricsFinderPic.png",
+    //   "url":"https://github.com/blanfried/Lyric-Finder"
+    // },
   ],
     "testimonials":[
     {
