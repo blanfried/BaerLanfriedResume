@@ -70,8 +70,8 @@ let resumeData = {
       "CompanyName":"Mysterious Bookshop",
       "specialization":"Part-Time Bookseller",
       "MonthOfLeaving":"Jan 2023 -",
-      "YearOfLeaving":"Present",
-      "Achievements":"Sold books, made recommendations, re-shelved/organized books in a presentable way, worked cash register and dealt with customers effectively and professionally."
+      "YearOfLeaving":"April",
+      "Achievements":"A Fun Part-Time job that I worked on Saturdays. I Sold books, made recommendations, re-shelved/organized books in a presentable way, worked cash register and dealt with customers effectively and professionally."
     },
     {
       "CompanyName":"Freelance",
