@@ -67,7 +67,7 @@ let resumeData = {
       "Achievements":"Full-Stack web developer. Contracted for Shopify, Hugo, and website creation from scratch."
     },
     {
-      "CompanyName":"Oso Adventurous",
+      "CompanyName":"Baer",
       "specialization":"Creator/Travel Vlogger",
       "MonthOfLeaving":"August 2020 -",
       "YearOfLeaving":"Present",
