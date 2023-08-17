@@ -67,7 +67,7 @@ let resumeData = {
       "Achievements":"Previously contracted for website creation from scratch and using CMS/template tools like Shopify and Hugo."
     },
     {
-      "CompanyName":"Baer",
+      "CompanyName":"Baer (Youtube)",
       "specialization":"Creator/Travel Vlogger",
       "MonthOfLeaving":"August 2020 -",
       "YearOfLeaving":"Present",
