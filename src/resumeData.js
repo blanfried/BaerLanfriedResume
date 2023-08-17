@@ -19,7 +19,7 @@ let resumeData = {
         "className":"fa fa-github"
       }
     ],
-  "aboutme":"Currently living in New York City after having lived in the UK and France for the past six years. Open to new work opportunities and web development contracting requests. Languages: English | French | Spanish",
+  "aboutme":"Currently living in New York City after having lived in the UK and France for the past six years. Open to new work opportunities and web development contracting requests. I can work with any CMS or develop a website from scratch. Languages: English | French | Spanish",
   "address":"716 Quincy St, Brooklyn, NY 11221, USA",
   "education":[
     {
