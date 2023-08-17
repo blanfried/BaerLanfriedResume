@@ -6,7 +6,7 @@ let resumeData = {
   "secondaryEmail": "blanfried@yahoo.com",
   "role": "Philosopher | Web Developer | Writer | Editor |",
   "linkedinId":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
-  "roleDescription": " This webpage is created by, and devoted to, moi-même (myself).",
+  "roleDescription": " This webpage was created by, and is devoted to, moi-même (myself).",
   "socialLinks":[
       {
         "name":"linkedin",
