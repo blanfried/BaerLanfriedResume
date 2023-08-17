@@ -32,7 +32,7 @@ let resumeData = {
       "specialization":"Philosophy of Religion and Ethics",
       "MonthOfPassing":"December",
       "YearOfPassing":"2022",
-      "Achievements":"MA"
+      "Achievements":"Master's (MA)"
     },
     {
       "UniversityName":"University of Birmingham (UK)",
@@ -46,14 +46,14 @@ let resumeData = {
       "specialization":"Philosophy",
       "MonthOfPassing":"May",
       "YearOfPassing":"2020",
-      "Achievements":"BA"
+      "Achievements":"Bachelor's (BA)"
     },
     {
       "UniversityName":"American University of Paris",
       "specialization":"Psychology",
       "MonthOfPassing":"May",
       "YearOfPassing":"2020",
-      "Achievements":"BA"
+      "Achievements":"Bachelor's (BA)"
     },
     {
       "UniversityName":"International TEFL Training Institute",
