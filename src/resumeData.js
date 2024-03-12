@@ -67,16 +67,16 @@ let resumeData = {
     {
       "CompanyName":"Entrepreneur",
       "specialization":"Osows.com",
-      "MonthOfLeaving":"June 2022 -",
+      "MonthOfLeaving":"September 2023 -",
       "YearOfLeaving":"Present",
-      "Achievements":"Previously contracted for website creation from scratch and using CMS/template tools like Shopify and Hugo."
+      "Achievements":"Started a website development agency with a focus toward helping the individual and mom-and-pop through a simple yet effective process."
     },
     {
       "CompanyName":"Tutor (Online and in Person)",
       "specialization":"Philosophy, English, Writing, French, & Spanish",
       "MonthOfLeaving":"September 2019 -",
       "YearOfLeaving":"Present",
-      "Achievements":"Previously contracted for website creation from scratch and using CMS/template tools like Shopify and Hugo."
+      "Achievements":"Primarily online tutor through a few different platforms in the US and UK. Focus as of late has been on essay writing and philosophy."
     },
     {
       "CompanyName":"Freelance Web Developer",
