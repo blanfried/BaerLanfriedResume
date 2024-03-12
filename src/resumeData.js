@@ -76,7 +76,7 @@ let resumeData = {
       "specialization":"Philosophy, English, Writing, French, & Spanish",
       "MonthOfLeaving":"September 2019 -",
       "YearOfLeaving":"Present",
-      "Achievements":"Primarily online tutor through a few different platforms in the US and UK. Focus as of late has been on essay writing and philosophy."
+      "Achievements":"Over 1000 hours of experience in total. Primarily online tutor through a few different platforms in the US and UK. Focus as of late has been on essay writing and philosophy."
     },
     {
       "CompanyName":"Freelance Web Developer",
@@ -104,7 +104,7 @@ let resumeData = {
       "specialization":"Full-Time Private Editor & English Teacher",
       "MonthOfLeaving":"August 2020 -",
       "YearOfLeaving":"August 2022",
-      "Achievements":"Hired to proofread, edit, and help write certain professional assignments (presentations, reports, articles, etc.). Privately taught English to adults of all different levels."
+      "Achievements":"Hired to proofread, edit, and help write certain professional assignments (presentations, reports, articles, etc.). Privately taught English one-on-one and in a classroom setting to adults of all different levels."
     },
     {
       "CompanyName":"The American University of Paris",
@@ -188,50 +188,57 @@ let resumeData = {
   // Photos need to be 1280 x 720. Otherwise it will not look as clean.
   "portfolio":[
     {
+      "name":"Osows.com",
+      "description":"My Website Development Business",
+      "imgurl":"./images/Osows.png",
+      "url":"https://www.osows.com/"
+    },
+    {
       "name":"Baer",
-      "description":"My Youtube Channel.",
+      "description":"My Youtube Channel",
       "imgurl":"./images/BaerYoutubeProfPic.png",
-      "url":"https://www.youtube.com/@HeyBaer"
+      "url":"https://www.youtube.com/@BaerLanfried"
     },
     {
       "name":"Baer Blog",
-      "description":"My Blog Site (More Posts Coming Soon). *Sole Developer",
+      "description":"My Blog Site (More Posts Coming Soon)",
       "imgurl":"./images/BlogSite.png",
       "url": "https://www.baerlanfriedblog.com"
     },
     {
       "name":"Quixote Farm",
-      "description":"Shopify E-Commerce Website. *Sole Developer",
+      "description":"Shopify E-Commerce Website",
       "imgurl":"./images/QuixoteFarm.png",
       "url": "https://www.quixotefarm.com"
     },
-    {
-      "name":"Escape Properties",
-      "description":"Simple Vacation Home Rental Website. *Sole Developer",
-      "imgurl":"./images/EscapeProperties.png",
-      "url": "https://www.escapepropertiesgroup.com"
-    },
+    // Decided I didn't really like this website
+    // {
+    //   "name":"Escape Properties",
+    //   "description":"Simple Vacation Home Rental Website. *Sole Developer",
+    //   "imgurl":"./images/EscapeProperties.png",
+    //   "url": "https://www.escapepropertiesgroup.com"
+    // },
     {
       "name":"Fakebook",
-      "description":"MERN Stack Facebook Clone. *Collaboration",
+      "description":"MERN Stack Facebook Clone *Collaboration",
       "imgurl":"./images/FakebookPic.png",
       "url":"https://agile-taiga-04390.herokuapp.com"
     },
     {
       "name":"SCA Car Rental Website",
-      "description":"Full-Stack Car Rental Website. *Project Lead",
+      "description":"Full-Stack Car Rental Website *Project Lead",
       "imgurl":"./images/SCARentalpic.png",
       "url": "https://github.com/blanfried/SCA-Rental"
     },
     {
       "name":"Academia Profile",
-      "description":"My Academic Writing.",
+      "description":"My Academic Writing",
       "imgurl":"./images/AcademiaPic.png",
       "url": "https://birmingham.academia.edu/BaerLanfried"
     },
     {
       "name":"Note Taker",
-      "description":"Note-Taking Full-Stack Application. *Sole Developer",
+      "description":"Note-Taking Full-Stack Application *Sole Developer",
       "imgurl":"./images/NoteTakerPic.png",
       "url":"https://github.com/blanfried/Notes_App"
     }
