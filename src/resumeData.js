@@ -4,24 +4,44 @@ let resumeData = {
   "number": "+1 (949) 439-8667",
   "primaryEmail": "blanfried@gmail.com",
   "secondaryEmail": "blanfried@yahoo.com",
-  "role": "Philosopher | Web Developer | Writer | Editor |",
+  "role": "Philosopher | Entrepreneur | Website Developer | Writer | Editor |",
   "linkedinId":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
-  "roleDescription": " This webpage was created by, and is devoted to, moi-même (myself).",
+  "roleDescription": " This webpage was created by, and is devoted to, moi-même.",
   "socialLinks":[
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"Youtube",
-        "url":"https://www.youtube.com/@HeyBaer",
-        "className":"fa fa-youtube"
+        "className":"fab fa-linkedin"
       },
       {
         "name":"github",
         "url":"http://github.com/blanfried",
-        "className":"fa fa-github"
+        "className":"fab fa-github"
+      },
+      {
+        "name":"Youtube",
+        "url":"https://www.youtube.com/@HeyBaer",
+        "className":"fab fa-youtube"
+      },
+      {
+        "name":"Facebook",
+        "url":"https://www.facebook.com/baer.lanfried",
+        "className":"fab fa-facebook"
+      },
+      {
+        "name":"Instagram",
+        "url":"https://www.instagram.com/baerlanfried/",
+        "className":"fab fa-instagram"
+      },
+      {
+        "name":"Medium",
+        "url":"https://medium.com/@baerlanfried_99543",
+        "className":"fab fa-medium"
+      },
+      {
+        "name":"Substack",
+        "url":"https://baerlanfried.substack.com/",
+        "className":"fa-solid fa-bookmark"
       }
     ],
   "aboutme":"Living semi-nomadically but principally between California and Wales. Building my business (Osows.com) and online presence as a writer and tutor. Professional languages: English | French | Spanish",

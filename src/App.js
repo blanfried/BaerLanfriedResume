@@ -7,6 +7,13 @@ import Testimonials from  './components/Testimonials';
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
+import { library } from '@fortawesome/fontawesome-svg-core';
+import { fab } from '@fortawesome/free-brands-svg-icons';
+
+// This adds all of the brand icons to the library so they
+// can be referenced by their "iconName" strings anywhere in your app
+library.add(fab);
+
 class App extends Component {
   render() {
     return (
