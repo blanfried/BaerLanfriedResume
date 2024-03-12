@@ -20,7 +20,7 @@ let resumeData = {
       },
       {
         "name":"Youtube",
-        "url":"https://www.youtube.com/@HeyBaer",
+        "url":"https://www.youtube.com/@BaerLanfried",
         "className":"fab fa-youtube"
       },
       {
