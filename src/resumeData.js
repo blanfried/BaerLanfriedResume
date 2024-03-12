@@ -207,7 +207,7 @@ let resumeData = {
     },
     {
       "name":"Quixote Farm",
-      "description":"Shopify E-Commerce Website",
+      "description":"Lead Developer on this Shopify E-Commerce Website",
       "imgurl":"./images/QuixoteFarm.png",
       "url": "https://www.quixotefarm.com"
     },
