@@ -24,8 +24,8 @@ let resumeData = {
         "className":"fa fa-github"
       }
     ],
-  "aboutme":"Currently living in New York City after having lived in the UK and France for the past six years. Open to new work opportunities and web development contracting requests. I can work with any CMS or develop a website from scratch. Professional languages: English | French | Spanish",
-  "address":"716 Quincy St, Brooklyn, NY 11221, USA",
+  "aboutme":"Living semi-nomadically but principally between California and Wales. Building my business (Osows.com) and online presence as a writer and tutor. Professional languages: English | French | Spanish",
+  "address":"PO Box 580, Pauma Valley, CA 92061, USA",
   "education":[
     {
       "UniversityName":"University of Birmingham (UK)",
@@ -64,6 +64,20 @@ let resumeData = {
     }
   ],
   "work":[
+    {
+      "CompanyName":"Entrepreneur",
+      "specialization":"Osows.com",
+      "MonthOfLeaving":"June 2022 -",
+      "YearOfLeaving":"Present",
+      "Achievements":"Previously contracted for website creation from scratch and using CMS/template tools like Shopify and Hugo."
+    },
+    {
+      "CompanyName":"Tutor (Online and in Person)",
+      "specialization":"Philosophy, English, Writing, French, & Spanish",
+      "MonthOfLeaving":"September 2019 -",
+      "YearOfLeaving":"Present",
+      "Achievements":"Previously contracted for website creation from scratch and using CMS/template tools like Shopify and Hugo."
+    },
     {
       "CompanyName":"Freelance Web Developer",
       "specialization":"Full-Stack and CMS",
