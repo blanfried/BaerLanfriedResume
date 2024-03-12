@@ -331,27 +331,27 @@ ul#nav li.current a { color: #f15f5f; }
   	-webkit-animation: photoshop 2s ease;
 }
 .problem-solving {
-  	width: 96%;
+  	width: 100%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .video-editing {
-  	width: 60%;
+  	width: 100%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
 .editing {
-  	width: 83%;
+  	width: 100%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .writing {
-  	width: 88%;
+  	width: 100%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
 .web-development {
-  	width: 93%;
+  	width: 100%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }

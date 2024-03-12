@@ -90,7 +90,7 @@ let resumeData = {
       "specialization":"Creator/Travel Vlogger",
       "MonthOfLeaving":"August 2020 -",
       "YearOfLeaving":"Present",
-      "Achievements":"Nearly 160k views and 30,000 hours watched on my YouTube videos (on and off my channel)."
+      "Achievements":"Nearly 200k views and 50,000 hours watched on my YouTube videos (on and off my channel)."
     },
     {
       "CompanyName":"Mysterious Bookshop",
