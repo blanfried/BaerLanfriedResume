@@ -69,7 +69,7 @@ let resumeData = {
       "specialization":"Osows.com",
       "MonthOfLeaving":"September 2023 -",
       "YearOfLeaving":"Present",
-      "Achievements":"Started a website development agency with a focus toward helping the individual and mom-and-pop through a simple yet effective process."
+      "Achievements":"Started a custom-branded website development agency with a focus on helping the individual and mom-and-pop succeed against big business through a simple yet effective process."
     },
     {
       "CompanyName":"Tutor (Online and in Person)",
