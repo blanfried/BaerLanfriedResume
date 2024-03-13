@@ -96,14 +96,14 @@ let resumeData = {
       "specialization":"Philosophy, English, Writing, French, & Spanish",
       "MonthOfLeaving":"September 2019 -",
       "YearOfLeaving":"Present",
-      "Achievements":"Over 1000 hours of experience in total. Primarily online tutor through a few different platforms in the US and UK. Focus as of late has been on essay writing and philosophy."
+      "Achievements":"Over 1000 hours of experience in total. Primarily an online tutor through a few different platforms in the US and UK. Focus as of late has been on philosophy and essay writing."
     },
     {
       "CompanyName":"Freelance Web Developer",
       "specialization":"Full-Stack and CMS",
       "MonthOfLeaving":"June 2022 -",
       "YearOfLeaving":"Present",
-      "Achievements":"Previously contracted for website creation from scratch and using CMS/template tools like Shopify and Hugo."
+      "Achievements":"Contracted for website creation from scratch. I primarily use static site generators, like Hugo, and CMS tools, like Shopify."
     },
     {
       "CompanyName":"Baer (Youtube)",
@@ -135,10 +135,10 @@ let resumeData = {
     },
     {
       "CompanyName":"Paris Atlantic Magazine",
-      "specialization":"Editorial Assistant",
+      "specialization":"Published",
       "MonthOfLeaving":"September 2019 -",
       "YearOfLeaving":"May 2020",
-      "Achievements":"Edited/proofread articles, provided feedback, and published one of my short stories in the 2020 issue."
+      "Achievements":"Published one of my short stories in the 2020 issue of Paris Atlantic Magazine."
     },
     {
       "CompanyName":"“Let’s Talk About God” Club and Radio Show",
