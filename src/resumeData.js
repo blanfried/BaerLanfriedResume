@@ -128,10 +128,10 @@ let resumeData = {
     },
     {
       "CompanyName":"The American University of Paris",
-      "specialization":"Writing Tutor",
+      "specialization":"University Writing Lab Tutor",
       "MonthOfLeaving":"September 2019 -",
       "YearOfLeaving":"May 2020",
-      "Achievements":"Edited and proofread academic papers, provided feedback, and guided fellow students to better writing techniques."
+      "Achievements":"Worked at my university's Writing Lab, editing and proofreading academic papers. I provided feedback and guided fellow students to better writing techniques."
     },
     {
       "CompanyName":"Paris Atlantic Magazine",
