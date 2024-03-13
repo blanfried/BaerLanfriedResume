@@ -120,7 +120,7 @@ let resumeData = {
       "Achievements":"A fun part-time job that I worked on Saturdays whilst in NYC. I sold books, made recommendations, re-shelved/organized, worked cash register and dealt with customers effectively and professionally."
     },
     {
-      "CompanyName":"Freelance Editor and English Teacher",
+      "CompanyName":"Freelance Editor and English Teacher in Biarritz, France",
       "specialization":"Full-Time Private Editor & English Teacher",
       "MonthOfLeaving":"August 2020 -",
       "YearOfLeaving":"August 2022",
@@ -138,7 +138,7 @@ let resumeData = {
       "specialization":"Published",
       "MonthOfLeaving":"September 2019 -",
       "YearOfLeaving":"May 2020",
-      "Achievements":"Published one of my short stories in the 2020 issue of Paris Atlantic Magazine."
+      "Achievements":"Published my short story \"La Palette\" in the 2020 issue of Paris Atlantic Magazine."
     },
     {
       "CompanyName":"“Let’s Talk About God” Club and Radio Show",
