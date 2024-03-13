@@ -94,9 +94,9 @@ let resumeData = {
     {
       "CompanyName":"Tutor (Online and in Person)",
       "specialization":"Philosophy, English, Writing, French, & Spanish",
-      "MonthOfLeaving":"September 2019 -",
+      "MonthOfLeaving":"January 2019 -",
       "YearOfLeaving":"Present",
-      "Achievements":"Over 1000 hours of experience in total. Primarily an online tutor through a few different platforms in the US and UK. Focus as of late has been on philosophy and essay writing."
+      "Achievements":"With over 1000 hours of tutoring experience amassed over the last 5 years, I now primarily offer my services online through various platforms in both the US and UK. While my recent endeavors have concentrated on Philosophy and Writing, my extensive tutoring history also includes English, along with some French and Spanish."
     },
     {
       "CompanyName":"Freelance Web Developer",
@@ -117,14 +117,14 @@ let resumeData = {
       "specialization":"Part-Time Bookseller",
       "MonthOfLeaving":"Jan 2023 -",
       "YearOfLeaving":"April 2023",
-      "Achievements":"A fun part-time job that I worked on Saturdays. I sold books, made recommendations, re-shelved/organized books in a presentable way, worked cash register and dealt with customers effectively and professionally."
+      "Achievements":"A fun part-time job that I worked on Saturdays whilst in NYC. I sold books, made recommendations, re-shelved/organized, worked cash register and dealt with customers effectively and professionally."
     },
     {
       "CompanyName":"Freelance Editor and English Teacher",
       "specialization":"Full-Time Private Editor & English Teacher",
       "MonthOfLeaving":"August 2020 -",
       "YearOfLeaving":"August 2022",
-      "Achievements":"Hired to proofread, edit, and help write certain professional assignments (presentations, reports, articles, etc.). Privately taught English one-on-one and in a classroom setting to adults of all different levels."
+      "Achievements":"Hired to proofread, edit, and help write certain professional assignments (presentations, reports, articles, etc.). Privately taught English one-on-one and in a classroom setting to adults of all different levels and nationalities whilst living in Biarritz, France."
     },
     {
       "CompanyName":"The American University of Paris",
