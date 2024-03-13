@@ -117,7 +117,7 @@ let resumeData = {
       "specialization":"Part-Time Bookseller",
       "MonthOfLeaving":"Jan 2023 -",
       "YearOfLeaving":"April 2023",
-      "Achievements":"A fun part-time job that I worked on Saturdays whilst in NYC. I sold books, made recommendations, re-shelved/organized, worked cash register and dealt with customers effectively and professionally."
+      "Achievements":"A fun part-time job that I worked on Saturdays whilst living in NYC. I sold books, made recommendations, re-shelved/organized, worked cash register and dealt with customers effectively and professionally."
     },
     {
       "CompanyName":"Freelance Editor and English Teacher in Biarritz, France",
