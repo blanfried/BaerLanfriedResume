@@ -44,7 +44,7 @@ let resumeData = {
         "className":"fa-solid fa-bookmark"
       }
     ],
-  "aboutme":"Living semi-nomadically but principally between California and Wales. Building my business (Osows.com) and online presence as a writer and tutor. Professional languages: English | French | Spanish",
+  "aboutme":"Living principally between California and Wales. Building my business (Osows.com) and online presence as a writer and tutor. Professional languages: English | French | Spanish",
   "address":"PO Box 580, Pauma Valley, CA 92061, USA",
   "education":[
     {
