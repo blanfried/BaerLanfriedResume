@@ -1,7 +1,8 @@
 let resumeData = {
   "imagebaseurl":"https://github.com/blanfried",
   "name": "Baer Lanfried",
-  "number": "+1 (949) 439-8667",
+  "number": "Send Me a Message",
+  "contactLink": "https://www.baerlanfriedblog.com/contact/",
   "primaryEmail": "blanfried@gmail.com",
   "secondaryEmail": "blanfried@yahoo.com",
   "role": "Philosopher | Entrepreneur | Website Developer | Writer | Editor |",
@@ -44,7 +45,7 @@ let resumeData = {
         "className":"fa-solid fa-bookmark"
       }
     ],
-  "aboutme":"Living principally between California and Wales. Building my business (Osows.com) and online presence as a writer and tutor. Professional languages: English | French | Spanish",
+  "aboutme":"I grew up in Southern California but have spent the majority of my adult life living in France and the United Kingdom. These days, I live semi-nomadically but principally between California (with my family) and Wales (with my girlfriend). I'm building my business (Osows.com) and online presence as a writer and tutor. Professional languages: English | French | Spanish",
   "address":"PO Box 580, Pauma Valley, CA 92061, USA",
   "education":[
     {
