@@ -277,6 +277,14 @@ let resumeData = {
   ],
     "testimonials":[
     {
+      "description":"Excellent Philosophy and Debate Guidance! | \"I reached out to Baer to tutor me on Debate and Philosophy so that I could better structure my own thinking, writing, and speaking. He delivers! Baer is a terrifically clear thinker with a broad knowledge base in all elements of rhetoric and debate. He is very friendly and clearly passionate about the subjects - his passion is contagious. He is fastidious in his meeting summaries and far reaching in his curriculum planning. Whether you are just dipping your toes in philosophy or already a seasoned student, I'd highly recommend you work with Baer each week, it's time and money well spent!\"",
+      "name":"Wyzant review from Max on 2/22/2024"
+    },
+    {
+      "description":"Thorough and Patient | \"Baer and I reviewed Kantianism (deontology), utilitarianism, and social contract theory and covered examples of each theory. Baer was thorough with his explanations and did a really good job at making sure I understood them for a midterm I had coming up. Super appreciative of his time and help.\"",
+      "name":"Wyzant review from Andrew on  2/26/2024"
+    },  
+    {
       "description":"\"Mr. Lanfried would be amongst the top percentile of interns that we have experienced, not just because of his skill set, but above all due to his personality, reliability and willingness to do whatever it takes in a team environment. He would be an asset to any employer, and I have no hesitation to recommend him for any endeavor he chooses to pursue.\"",
       "name":"Michael Baynes (Executive Partner of Maxwell-Baynes, Christie's International Real Estate)"
     },
@@ -295,6 +303,10 @@ let resumeData = {
     {
       "description":"\"[Baer] displays confidence without any sense of arrogance and, in my estimation, is a humble man who listens and learns. I believe that he would prove to be an asset to any organization that he would align himself with.\"",
       "name":"Mark Shaffer (Assistant General Manager at KWVE Radio)"
+    },
+    {
+      "description":"5 Stars",
+      "name":"Wyzant Tutoring Platform Rating"
     },
     {
       "description":"Global Professional Skills Honour",
