@@ -227,6 +227,12 @@ let resumeData = {
       "url": "https://www.baerlanfriedblog.com"
     },
     {
+      "name":"Academia Profile",
+      "description":"My Academic Writing",
+      "imgurl":"./images/AcademiaPic.png",
+      "url": "https://birmingham.academia.edu/BaerLanfried"
+    },
+    {
       "name":"Quixote Farm",
       "description":"Lead Developer on this Shopify E-Commerce Website",
       "imgurl":"./images/QuixoteFarm.png",
@@ -246,22 +252,22 @@ let resumeData = {
       "url":"https://effortlessdemolition.com"
     },
     {
-      "name":"Fakebook",
-      "description":"MERN Stack Facebook Clone *Collaboration",
-      "imgurl":"./images/FakebookPic.png",
-      "url":"https://agile-taiga-04390.herokuapp.com"
+      "name":"Chamber of Commerce (Valley Center, CA)",
+      "description":"Lead Developer on Valley Center's Chamber of Commerce Website",
+      "imgurl":"./images/VCChamber.png",
+      "url":"https://vcchamber.com"
     },
+    // {
+    //   "name":"Fakebook",
+    //   "description":"MERN Stack Facebook Clone *Collaboration",
+    //   "imgurl":"./images/FakebookPic.png",
+    //   "url":"https://agile-taiga-04390.herokuapp.com"
+    // },
     {
       "name":"SCA Car Rental Website",
       "description":"Full-Stack Car Rental Website *Project Lead",
       "imgurl":"./images/SCARentalpic.png",
       "url": "https://github.com/blanfried/SCA-Rental"
-    },
-    {
-      "name":"Academia Profile",
-      "description":"My Academic Writing",
-      "imgurl":"./images/AcademiaPic.png",
-      "url": "https://birmingham.academia.edu/BaerLanfried"
     }
     // {
     //   "name":"Note Taker",
