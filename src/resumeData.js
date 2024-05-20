@@ -7,7 +7,7 @@ let resumeData = {
   "secondaryEmail": "blanfried@yahoo.com",
   "role": "Philosopher | Entrepreneur | Website Developer | Writer | Editor |",
   "linkedinId":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
-  "roleDescription": " This webpage was created by, and is devoted to, moi-même. *Last Updated: March 2024",
+  "roleDescription": " This webpage was created by, and is devoted to, moi-même (myself). *Last Updated: March 2024",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -50,7 +50,7 @@ let resumeData = {
   "education":[
     {
       "UniversityName":"University of Birmingham (UK)",
-      "specialization":"Philosophy of Religion and Ethics",
+      "specialization":"Ethics & Philosophy of Religion",
       "MonthOfPassing":"December",
       "YearOfPassing":"2022",
       "Achievements":"Master's (MA)"
@@ -240,6 +240,12 @@ let resumeData = {
     //   "url": "https://www.escapepropertiesgroup.com"
     // },
     {
+      "name":"Effortless Demolition",
+      "description":"Sole Developer on Effortless Demolition's Company Website",
+      "imgurl":"./images/EffortlessDemo.png",
+      "url":"https://effortlessdemolition.com"
+    },
+    {
       "name":"Fakebook",
       "description":"MERN Stack Facebook Clone *Collaboration",
       "imgurl":"./images/FakebookPic.png",
@@ -256,13 +262,13 @@ let resumeData = {
       "description":"My Academic Writing",
       "imgurl":"./images/AcademiaPic.png",
       "url": "https://birmingham.academia.edu/BaerLanfried"
-    },
-    {
-      "name":"Note Taker",
-      "description":"Note-Taking Full-Stack Application *Sole Developer",
-      "imgurl":"./images/NoteTakerPic.png",
-      "url":"https://github.com/blanfried/Notes_App"
     }
+    // {
+    //   "name":"Note Taker",
+    //   "description":"Note-Taking Full-Stack Application *Sole Developer",
+    //   "imgurl":"./images/NoteTakerPic.png",
+    //   "url":"https://github.com/blanfried/Notes_App"
+    // }
     // {
     //   "name":"Social Network API",
     //   "description":"Solo JavaScript Backend Project",
