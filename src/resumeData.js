@@ -87,10 +87,10 @@ let resumeData = {
   "work":[
     {
       "CompanyName":"Entrepreneur",
-      "specialization":"Osows.com",
+      "specialization":"Genyst.com",
       "MonthOfLeaving":"September 2023 -",
       "YearOfLeaving":"Present",
-      "Achievements":"I founded a custom-branded website development agency dedicated to empowering individuals and small businesses to thrive in competition with larger corporations. Our approach is straightforward, leveraging a tailored process that ensures success."
+      "Achievements":"I founded a custom-branded website development agency dedicated to empowering individuals and small businesses to thrive in competition with larger corporations. Our approach is straightforward, leveraging a simple process that ensures success."
     },
     {
       "CompanyName":"Tutor (Online and in Person)",
