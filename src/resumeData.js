@@ -209,35 +209,55 @@ let resumeData = {
   // Photos need to be 1280 x 720. Otherwise it will not look as clean.
   "portfolio":[
     {
-      "name":"Osows.com",
+      "name":"Genyst.com",
       "description":"My Website Development Business",
-      "imgurl":"./images/Osows.png",
-      "url":"https://www.osows.com/"
+      "imgurl":"./images/portfolio/Genyst.png",
+      "url":"https://www.Genyst.com/"
     },
     {
-      "name":"Baer",
-      "description":"My Youtube Channel",
-      "imgurl":"./images/BaerYoutubeProfPic.png",
-      "url":"https://www.youtube.com/@BaerLanfried"
+      "name":"Chamber of Commerce (Valley Center, CA)",
+      "description":"Lead Developer on Valley Center's Chamber of Commerce Website",
+      "imgurl":"./images/portfolio/VCChamber.png",
+      "url":"https://vcchamber.com"
+    },
+    {
+      "name":"Effortless Demolition",
+      "description":"Sole Developer on Effortless Demolition's Company Website",
+      "imgurl":"./images/portfolio/EffortlessDemo.png",
+      "url":"https://effortlessdemolition.com"
+    },
+    {
+      "name":"Quixote Farm",
+      "description":"Lead Developer on Quixote Farm's E-Commerce Website",
+      "imgurl":"./images/portfolio/QuixoteFarm.png",
+      "url": "https://www.quixotefarm.com"
     },
     {
       "name":"Baer Blog",
       "description":"My Blog Site (More Posts Coming Soon)",
-      "imgurl":"./images/BlogSite.png",
+      "imgurl":"./images/portfolio/BlogSite.png",
       "url": "https://www.baerlanfriedblog.com"
+    },
+    {
+      "name":"Baer",
+      "description":"My Youtube Channel",
+      "imgurl":"./images/portfolio/BaerYoutubeProfPic.png",
+      "url":"https://www.youtube.com/@BaerLanfried"
+    },
+    {
+      "name":"Tutoring Profile",
+      "description":"My Wyzant Tutoring Profile (as of May 24, 2024)",
+      "imgurl":"./images/portfolio/WyzantProf.png",
+      "url": "https://www.wyzant.com/Tutors/ateachingBaer"
     },
     {
       "name":"Academia Profile",
       "description":"My Academic Writing",
-      "imgurl":"./images/AcademiaPic.png",
+      "imgurl":"./images/portfolio/AcademiaPic.png",
       "url": "https://birmingham.academia.edu/BaerLanfried"
-    },
-    {
-      "name":"Quixote Farm",
-      "description":"Lead Developer on this Shopify E-Commerce Website",
-      "imgurl":"./images/QuixoteFarm.png",
-      "url": "https://www.quixotefarm.com"
-    },
+    }
+
+
     // Decided I didn't really like this website
     // {
     //   "name":"Escape Properties",
@@ -245,30 +265,18 @@ let resumeData = {
     //   "imgurl":"./images/EscapeProperties.png",
     //   "url": "https://www.escapepropertiesgroup.com"
     // },
-    {
-      "name":"Effortless Demolition",
-      "description":"Sole Developer on Effortless Demolition's Company Website",
-      "imgurl":"./images/EffortlessDemo.png",
-      "url":"https://effortlessdemolition.com"
-    },
-    {
-      "name":"Chamber of Commerce (Valley Center, CA)",
-      "description":"Lead Developer on Valley Center's Chamber of Commerce Website",
-      "imgurl":"./images/VCChamber.png",
-      "url":"https://vcchamber.com"
-    },
     // {
     //   "name":"Fakebook",
     //   "description":"MERN Stack Facebook Clone *Collaboration",
     //   "imgurl":"./images/FakebookPic.png",
     //   "url":"https://agile-taiga-04390.herokuapp.com"
     // },
-    {
-      "name":"SCA Car Rental Website",
-      "description":"Full-Stack Car Rental Website *Project Lead",
-      "imgurl":"./images/SCARentalpic.png",
-      "url": "https://github.com/blanfried/SCA-Rental"
-    }
+    // {
+    //   "name":"SCA Car Rental Website",
+    //   "description":"Full-Stack Car Rental Website *Project Lead",
+    //   "imgurl":"./images/portfolio/SCARentalpic.png",
+    //   "url": "https://github.com/blanfried/SCA-Rental"
+    // }
     // {
     //   "name":"Note Taker",
     //   "description":"Note-Taking Full-Stack Application *Sole Developer",
