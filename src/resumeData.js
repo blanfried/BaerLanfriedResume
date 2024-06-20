@@ -7,7 +7,7 @@ let resumeData = {
   "secondaryEmail": "blanfried@yahoo.com",
   "role": "Philosopher | Entrepreneur | Website Developer | Writer | Editor |",
   "linkedinId":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
-  "roleDescription": " This webpage was created by, and is devoted to, moi-même (myself). *Last Updated: March 2024",
+  "roleDescription": " This webpage was created by, and is devoted to, moi-même (myself). *Last Updated: June 2024",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -29,20 +29,25 @@ let resumeData = {
         "url":"https://www.facebook.com/baer.lanfried",
         "className":"fab fa-facebook"
       },
-      {
-        "name":"Instagram",
-        "url":"https://www.instagram.com/baerlanfried/",
-        "className":"fab fa-instagram"
-      },
+      // {
+      //   "name":"Instagram",
+      //   "url":"https://www.instagram.com/baerlanfried/",
+      //   "className":"fab fa-instagram"
+      // },
       {
         "name":"Medium",
-        "url":"https://medium.com/@baerlanfried_99543",
+        "url":"https://baerlanfried.medium.com/",
         "className":"fab fa-medium"
       },
       {
         "name":"Substack",
-        "url":"https://baerlanfried.substack.com/",
+        "url":"https://abitofme.substack.com/",
         "className":"fa-solid fa-bookmark"
+      },
+      {
+        "name":"TikTok",
+        "url":"hhttps://www.tiktok.com/@baerlanfried",
+        "className":"fab fa-tiktok"
       }
     ],
   "aboutme":"I grew up in Southern California but have spent the majority of my adult life living in France and the United Kingdom. These days, I live semi-nomadically but principally between California (with my family) and Wales (with my girlfriend). I'm building my business (Genyst.com) and online presence as a writer and tutor. Professional languages: English | French | Spanish",
