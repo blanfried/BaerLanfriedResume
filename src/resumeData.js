@@ -45,7 +45,7 @@ let resumeData = {
         "className":"fa-solid fa-bookmark"
       }
     ],
-  "aboutme":"I grew up in Southern California but have spent the majority of my adult life living in France and the United Kingdom. These days, I live semi-nomadically but principally between California (with my family) and Wales (with my girlfriend). I'm building my business (Osows.com) and online presence as a writer and tutor. Professional languages: English | French | Spanish",
+  "aboutme":"I grew up in Southern California but have spent the majority of my adult life living in France and the United Kingdom. These days, I live semi-nomadically but principally between California (with my family) and Wales (with my girlfriend). I'm building my business (Genyst.com) and online presence as a writer and tutor. Professional languages: English | French | Spanish",
   "address":"PO Box 580, Pauma Valley, CA 92061, USA",
   "education":[
     {
@@ -104,7 +104,7 @@ let resumeData = {
       "specialization":"Full-Stack and CMS",
       "MonthOfLeaving":"June 2022 -",
       "YearOfLeaving":"Present",
-      "Achievements":"Contracted for website creation from scratch. I primarily use static site generators, like Hugo, and CMS tools, like Shopify."
+      "Achievements":"Contracted for website creation from scratch. I primarily use static site generators, like Hugo, and CMS tools, like Shopify. So far I have been for Chambers of Commerce, Interior Design, Agritourism Farm, Demolition, Construction, and Vacation Rental website creation/management."
     },
     {
       "CompanyName":"Baer (Youtube)",
