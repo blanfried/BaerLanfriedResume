@@ -109,7 +109,7 @@ let resumeData = {
       "specialization":"Full-Stack and CMS",
       "MonthOfLeaving":"June 2022 -",
       "YearOfLeaving":"Present",
-      "Achievements":"Contracted for website creation from scratch. I primarily use static site generators, like Hugo, and CMS tools, like Shopify. So far I have been for Chambers of Commerce, Interior Design, Agritourism Farm, Demolition, Construction, and Vacation Rental website creation/management."
+      "Achievements":"Contracted for website creation from scratch. I primarily use static site generators, like Hugo, and CMS tools, like Shopify. I have created/managed websites for a Chamber of Commerce in San Diego, CA as well as Interior Design, Agritourism Farm, Demolition, Construction, and Vacation Rental companies."
     },
     {
       "CompanyName":"Baer (Youtube)",
