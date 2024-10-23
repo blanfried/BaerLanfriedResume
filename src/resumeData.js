@@ -99,8 +99,8 @@ let resumeData = {
       "Achievements":"My Branding and Website Creation Business. Helping individuals build their purpose through brand and website in an effort to make business more personal."
     },
     {
-      "CompanyName":"Chief Techincal Officer at SAAS Startup",
-      "specialization":"Vinissimo",
+      "CompanyName":"Chief Technical Officer at SAAS Startup",
+      "specialization":"Vinissimoenology",
       "MonthOfLeaving":"June 2024 -",
       "YearOfLeaving":"Present",
       "Achievements":"I am the current CTO for a beverage inventory SAAS start-up based in Italy, called Vinissimo. I am the primary UI/UX Designer and Frontend Engineer. I manage the tech team as a whole. Currently building and testing software, planned release Spring 2025."
