@@ -27,7 +27,7 @@ export default class About extends Component {
 
                   <h2>Contact Details</h2>
                   <p className="address">
-       						<span><a href={resumeData.contactLink} target="_blank" rel="noopener noreferrer">{resumeData.number}</a> (through my blog)</span>
+       						<span><a href={resumeData.contactLink} target="_blank" rel="noopener noreferrer">{resumeData.number}</a>{resumeData.contactLinkText}</span>
                      <br></br>
        						<span>{resumeData.primaryEmail}</span>
                      <br></br>

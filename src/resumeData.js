@@ -2,7 +2,8 @@ let resumeData = {
   "imagebaseurl":"https://github.com/blanfried",
   "name": "Baer Lanfried",
   "number": "Send Me a Message",
-  "contactLink": "https://www.baerlanfriedblog.com/contact/",
+  "contactLink": "https://www.thebaerbones.com/contact/",
+  "contactLinkText": " (Through My Business Website)",
   "primaryEmail": "blanfried@gmail.com",
   "secondaryEmail": "blanfried@yahoo.com",
   "role": "Philosopher | Entrepreneur | Website Developer | Writer | Editor |",
@@ -120,11 +121,11 @@ let resumeData = {
       "Achievements":"With nearly 1200 hours of tutoring experience amassed over the last 5 years, I primarily offer my services online through various platforms in both the US and UK. While my recent endeavors concentrate on Philosophy, my tutoring history also includes Writing, all things English, Psychology, and some French and Spanish."
     },
     {
-      "CompanyName":"Baer (Youtube)",
-      "specialization":"Creator/Travel Vlogger",
+      "CompanyName":"Baer Lanfried (Youtube & TikTok)",
+      "specialization":"Creator/Educator",
       "MonthOfLeaving":"August 2020 -",
       "YearOfLeaving":"Present",
-      "Achievements":"Over 225k views and 60,000 hours watched on my YouTube videos (on and off my channel)."
+      "Achievements":"Over 225k views and 60,000 hours watched on my YouTube/TikTok videos and shorts (on and off my main channels)."
     },
     {
       "CompanyName":"Mysterious Bookshop",
@@ -310,6 +311,18 @@ let resumeData = {
     // },
   ],
     "testimonials":[
+    {
+      "description":"\"Baer (TheBaerBones) built a high-quality, SEO-friendly website well within our budget. His communication was proactive and timely throughout the process. The best part? We’ve been receiving more calls from search engines and Google Maps. The site has more than paid for itself, and it’s only been three months! I cannot recommend Baer highly enough.\"",
+      "name":"TheBaerBones Review from Max | Founder of Effortless Demolition"
+    },
+    {
+      "description":"\"I recently worked with Baer on my website and brand and couldn’t be more pleased with the experience. Baer’s professionalism made the entire process smooth and enjoyable. His creativity was a standout feature, guiding me through defining my brand’s essence with a variety of tools and methods. The design solutions he proposed not only aligned with my vision but also exceeded my expectations. What impressed me most was Baer’s problem-solving ability. Whenever challenges arose, he addressed them positively and quickly, finding effective solutions. He was highly flexible, incorporating my feedback to ensure the final product perfectly matched my style. Baer’s punctuality and prompt responses to emails kept the project on track, instilling confidence in the timeline and the overall process. I highly recommend Baer for any website/branding project. His blend of creativity, professionalism, and commitment to client satisfaction truly sets him apart. I’m thrilled with the outcome and look forward to future collaborations!\"",
+      "name":"TheBaerBones Review from Andréa | Founder of Chez Andréa Cuisine"
+    },
+    {
+      "description":"\"Baer at TheBaerBones came to our rescue after we began building our Shopify website for our small business and quickly realized we were in over our heads. I found the tech assistance through Shopify to be lacking, so discovering Baer’s abilities—and being able to actually speak with a real person on the phone, not just ChatGPT—was a game changer! He listened carefully and implemented everything we asked for. Baer provided cheerful and helpful suggestions when needed and ultimately created a polished and beautiful website that we are proud to share with the world. Personalized web services at this level are hard to find. We cannot thank him enough!\"",
+      "name":"TheBaerBones Review from Lara | Founder of Quixote Farm"
+    },
     {
       "description":"Excellent Philosophy and Debate Guidance! | \"I reached out to Baer to tutor me on Debate and Philosophy so that I could better structure my own thinking, writing, and speaking. He delivers! Baer is a terrifically clear thinker with a broad knowledge base in all elements of rhetoric and debate. He is very friendly and clearly passionate about the subjects - his passion is contagious. He is fastidious in his meeting summaries and far reaching in his curriculum planning. Whether you are just dipping your toes in philosophy or already a seasoned student, I'd highly recommend you work with Baer each week, it's time and money well spent!\"",
       "name":"Wyzant review from Max on 2/22/2024"
