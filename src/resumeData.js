@@ -236,7 +236,7 @@ let resumeData = {
     },
     {
       "name":"Chez Andréa Cuisine",
-      "description":"A Cooking Class/Slow Foodie Shopify Site I Recently Created For a Client. ",
+      "description":"A Cooking Class Shopify Site I Recently Created For a Client. ",
       "imgurl":"./images/portfolio/ChezAndréaCuisine.png",
       "url":"https://www.chezandreacuisine.com/"
     },
@@ -278,7 +278,7 @@ let resumeData = {
     },
     {
       "name":"Tutoring Profile",
-      "description":"My Wyzant Tutoring Profile (as of May 24, 2024)",
+      "description":"My Wyzant Tutoring Profile (as of October 23, 2024)",
       "imgurl":"./images/portfolio/WyzantProf.png",
       "url": "https://www.wyzant.com/Tutors/ateachingBaer"
     }
