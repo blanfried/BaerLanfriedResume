@@ -211,7 +211,7 @@ ul#nav li.current a { color: #f15f5f; }
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
+#about .contact-details { width: 55%; }
 #about .download {
    width: 58.33333%;
    padding-top: 6px;
@@ -272,8 +272,8 @@ ul#nav li.current a { color: #f15f5f; }
    margin-bottom: 18px;
    margin-top: 9px;
 }
-#resume a, #about a:visited  { color: #6E7881; }
-#resume a:hover, #about a:focus { color: #f15f5f; }
+#resume a, #resume a:visited  { color: #6E7881; }
+#resume a:hover, #resume a:focus { color: #f15f5f; }
 
 
 #resume .info span {

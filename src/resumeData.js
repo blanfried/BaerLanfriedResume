@@ -6,9 +6,9 @@ let resumeData = {
   "contactLinkText": " (Through My Business Website)",
   "primaryEmail": "blanfried@gmail.com",
   "secondaryEmail": "blanfried@yahoo.com",
-  "role": "Philosopher | Entrepreneur | Website Developer | Writer | Editor |",
+  "role": "Philosopher | Entrepreneur | Website Designer |",
   "linkedinId":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
-  "roleDescription": " This webpage was created by, and is devoted to, moi-même (myself). *Last Updated: October 2024",
+  "roleDescription": " This webpage was created by, and is devoted to, moi-même. *Last Updated: October 2024",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -51,7 +51,7 @@ let resumeData = {
         "className":"fab fa-tiktok"
       }
     ],
-  "aboutme":"I grew up in Southern California but have spent the majority of my adult life living in France and the United Kingdom. These days, I live semi-nomadically but principally between California (with my family) and Wales (with my girlfriend). I'm building my business (Genyst.com) and online presence as a writer and tutor. Professional languages: English | French | Spanish",
+  "aboutme":"I grew up in Southern California but have spent the majority of my adult life living in France and the United Kingdom. These days, I live semi-nomadically but principally between California (with my family) and Wales (with my girlfriend). I'm building my business (TheBaerBones.com) and educating when and where I can. Professional languages: English | French | Spanish",
   "address":"PO Box 580, Pauma Valley, CA 92061, USA",
   "education":[
     {
