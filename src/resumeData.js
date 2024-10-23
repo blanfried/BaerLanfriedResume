@@ -29,11 +29,11 @@ let resumeData = {
         "url":"https://www.facebook.com/baer.lanfried",
         "className":"fab fa-facebook"
       },
-      // {
-      //   "name":"Instagram",
-      //   "url":"https://www.instagram.com/baerlanfried/",
-      //   "className":"fab fa-instagram"
-      // },
+      {
+        "name":"Instagram",
+        "url":"https://www.instagram.com/baerlanfried/",
+        "className":"fab fa-instagram"
+      },
       {
         "name":"Medium",
         "url":"https://baerlanfried.medium.com/",
@@ -46,7 +46,7 @@ let resumeData = {
       },
       {
         "name":"TikTok",
-        "url":"hhttps://www.tiktok.com/@baerlanfried",
+        "url":"https://www.tiktok.com/@baerlanfried",
         "className":"fab fa-tiktok"
       }
     ],
@@ -69,18 +69,18 @@ let resumeData = {
     },
     {
       "UniversityName":"American University of Paris",
-      "specialization":"Philosophy",
+      "specialization":"Philosophy & Psychology",
       "MonthOfPassing":"May",
       "YearOfPassing":"2020",
       "Achievements":"Bachelor's (BA)"
     },
-    {
-      "UniversityName":"American University of Paris",
-      "specialization":"Psychology",
-      "MonthOfPassing":"May",
-      "YearOfPassing":"2020",
-      "Achievements":"Bachelor's (BA)"
-    },
+    // {
+    //   "UniversityName":"American University of Paris",
+    //   "specialization":"Psychology",
+    //   "MonthOfPassing":"May",
+    //   "YearOfPassing":"2020",
+    //   "Achievements":"Bachelor's (BA)"
+    // },
     {
       "UniversityName":"International TEFL Training Institute",
       "specialization":"Teaching English as a Foreign Language",
@@ -92,31 +92,38 @@ let resumeData = {
   "work":[
     {
       "CompanyName":"Entrepreneur",
-      "specialization":"Genyst.com",
+      "specialization":"TheBaerBones",
       "MonthOfLeaving":"September 2023 -",
       "YearOfLeaving":"Present",
-      "Achievements":"I founded a custom-branded website development agency dedicated to empowering individuals and small businesses to thrive in competition with larger corporations. Our approach is straightforward, leveraging a simple process that ensures success."
+      "Achievements":"My Branding and Website Creation Business. Reflecting the bare bones of individuals in brand and website to make business more personal."
+    },
+    {
+      "CompanyName":"SAAS Startup CTO",
+      "specialization":"Vinissimo",
+      "MonthOfLeaving":"June 2024 -",
+      "YearOfLeaving":"Present",
+      "Achievements":"I am the current CTO for a beverage inventory SAAS start-up based in Italy, called Vinissimo. I am the primary UI/UX Designer and Frontend Engineer. I manage the tech team as a whole. Currently building and testing software, planned release Spring or Summer 2025."
+    },
+    {
+      "CompanyName":"Freelance UI/UX & Software Engineer",
+      "specialization":"Full-Stack and CMS",
+      "MonthOfLeaving":"June 2022 -",
+      "YearOfLeaving":"Present",
+      "Achievements":"Before starting TheBaerBones, I was contracted to create, design, and manage websites and software for Interior Design, Music Production, Musical Talent Acquisition, Chamber of Commerce, Agritourism, Demolition, Construction, Artisan Catering, European Cooking Course, and Vacation Rental companies."
     },
     {
       "CompanyName":"Tutor (Online and in Person)",
       "specialization":"Philosophy, English, Writing, French, & Spanish",
       "MonthOfLeaving":"January 2019 -",
       "YearOfLeaving":"Present",
-      "Achievements":"With over 1000 hours of tutoring experience amassed over the last 5 years, I now primarily offer my services online through various platforms in both the US and UK. While my recent endeavors have concentrated on Philosophy and Writing, my extensive tutoring history also includes English, along with some French and Spanish."
-    },
-    {
-      "CompanyName":"Freelance Web Developer",
-      "specialization":"Full-Stack and CMS",
-      "MonthOfLeaving":"June 2022 -",
-      "YearOfLeaving":"Present",
-      "Achievements":"Contracted for website creation from scratch. I primarily use static site generators, like Hugo, and CMS tools, like Shopify. I have created/managed websites for a Chamber of Commerce in San Diego, CA as well as Interior Design, Agritourism Farm, Demolition, Construction, and Vacation Rental companies."
+      "Achievements":"With nearly 1200 hours of tutoring experience amassed over the last 5 years, I primarily offer my services online through various platforms in both the US and UK. While my recent endeavors concentrate on Philosophy, my tutoring history also includes Writing, all things English, Psychology, and some French and Spanish."
     },
     {
       "CompanyName":"Baer (Youtube)",
       "specialization":"Creator/Travel Vlogger",
       "MonthOfLeaving":"August 2020 -",
       "YearOfLeaving":"Present",
-      "Achievements":"Nearly 200k views and 50,000 hours watched on my YouTube videos (on and off my channel)."
+      "Achievements":"Over 225k views and 60,000 hours watched on my YouTube videos (on and off my channel)."
     },
     {
       "CompanyName":"Mysterious Bookshop",
