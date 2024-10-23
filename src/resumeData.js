@@ -92,17 +92,18 @@ let resumeData = {
   "work":[
     {
       "CompanyName":"Entrepreneur",
-      "specialization":"TheBaerBones",
+      "specialization1":"TheBaerBones.com",
+      "specializationLink":"https://www.TheBaerBones.com",
       "MonthOfLeaving":"September 2023 -",
       "YearOfLeaving":"Present",
-      "Achievements":"My Branding and Website Creation Business. Reflecting the bare bones of individuals in brand and website to make business more personal."
+      "Achievements":"My Branding and Website Creation Business. Helping individuals build their purpose through brand and website in an effort to make business more personal."
     },
     {
-      "CompanyName":"SAAS Startup CTO",
+      "CompanyName":"Chief Techincal Officer at SAAS Startup",
       "specialization":"Vinissimo",
       "MonthOfLeaving":"June 2024 -",
       "YearOfLeaving":"Present",
-      "Achievements":"I am the current CTO for a beverage inventory SAAS start-up based in Italy, called Vinissimo. I am the primary UI/UX Designer and Frontend Engineer. I manage the tech team as a whole. Currently building and testing software, planned release Spring or Summer 2025."
+      "Achievements":"I am the current CTO for a beverage inventory SAAS start-up based in Italy, called Vinissimo. I am the primary UI/UX Designer and Frontend Engineer. I manage the tech team as a whole. Currently building and testing software, planned release Spring 2025."
     },
     {
       "CompanyName":"Freelance UI/UX & Software Engineer",
