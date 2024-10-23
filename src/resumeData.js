@@ -97,7 +97,7 @@ let resumeData = {
       "specializationLink":"https://www.TheBaerBones.com",
       "MonthOfLeaving":"September 2023 -",
       "YearOfLeaving":"Present",
-      "Achievements":"My Branding and Website Creation Business. Helping individuals build their purpose through brand and website in an effort to make business more personal."
+      "Achievements":"My Branding and Website Creation Business. Building purpose through brands and websites in an effort to make business more personal."
     },
     {
       "CompanyName":"Chief Technical Officer at SAAS Startup",
