@@ -223,10 +223,22 @@ let resumeData = {
   // Photos need to be 1280 x 720. Otherwise it will not look as clean.
   "portfolio":[
     {
+      "name":"TheBaerBones.com",
+      "description":"My Branding and Website Creation Business",
+      "imgurl":"./images/portfolio/TheBaerBones.png",
+      "url":"https://www.thebaerbones.com/"
+    },
+    {
       "name":"Genyst.com",
-      "description":"My Website Development Business",
+      "description":"The Most Recent Iteration of My Business. No longer in use, but I love how it turned out.",
       "imgurl":"./images/portfolio/Genyst.png",
       "url":"https://www.Genyst.com/"
+    },
+    {
+      "name":"Chez Andréa Cuisine",
+      "description":"A Cooking Class/Slow Foodie Shopify Site I Recently Created For a Client. ",
+      "imgurl":"./images/portfolio/ChezAndréaCuisine.png",
+      "url":"https://www.chezandreacuisine.com/"
     },
     {
       "name":"Chamber of Commerce (Valley Center, CA)",
@@ -246,30 +258,36 @@ let resumeData = {
       "imgurl":"./images/portfolio/QuixoteFarm.png",
       "url": "https://www.quixotefarm.com"
     },
+    // {
+    //   "name":"Baer Blog",
+    //   "description":"My Blog Site (More Posts Coming Soon)",
+    //   "imgurl":"./images/portfolio/BlogSite.png",
+    //   "url": "https://www.baerlanfriedblog.com"
+    // },
+    // {
+    //   "name":"Baer",
+    //   "description":"My Youtube Channel",
+    //   "imgurl":"./images/portfolio/BaerYoutubeProfPic.png",
+    //   "url":"https://www.youtube.com/@BaerLanfried"
+    // },
     {
-      "name":"Baer Blog",
-      "description":"My Blog Site (More Posts Coming Soon)",
-      "imgurl":"./images/portfolio/BlogSite.png",
-      "url": "https://www.baerlanfriedblog.com"
-    },
-    {
-      "name":"Baer",
-      "description":"My Youtube Channel",
-      "imgurl":"./images/portfolio/BaerYoutubeProfPic.png",
-      "url":"https://www.youtube.com/@BaerLanfried"
+      "name":"This Website!",
+      "description":"It's one of my favs.",
+      "imgurl":"./images/portfolio/BaerLanfriedResume.png",
+      "url": "https://www.baerlanfried.com"
     },
     {
       "name":"Tutoring Profile",
       "description":"My Wyzant Tutoring Profile (as of May 24, 2024)",
       "imgurl":"./images/portfolio/WyzantProf.png",
       "url": "https://www.wyzant.com/Tutors/ateachingBaer"
-    },
-    {
-      "name":"Academia Profile",
-      "description":"My Academic Writing",
-      "imgurl":"./images/portfolio/AcademiaPic.png",
-      "url": "https://birmingham.academia.edu/BaerLanfried"
     }
+    // {
+    //   "name":"Academia Profile",
+    //   "description":"My Academic Writing",
+    //   "imgurl":"./images/portfolio/AcademiaPic.png",
+    //   "url": "https://birmingham.academia.edu/BaerLanfried"
+    // }
 
 
     // Decided I didn't really like this website
