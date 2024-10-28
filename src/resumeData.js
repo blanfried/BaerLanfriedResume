@@ -57,23 +57,23 @@ let resumeData = {
     {
       "UniversityName":"University of Birmingham (UK)",
       "specialization":"Ethics & Philosophy of Religion",
-      "MonthOfPassing":"December",
-      "YearOfPassing":"2022",
+      "MonthOfPassing":"",
+      "YearOfPassing":"",
       "Achievements":"Master's (MA)"
-    },
-    {
-      "UniversityName":"University of Birmingham (UK)",
-      "specialization":"Full-Stack Coding Bootcamp",
-      "MonthOfPassing":"December",
-      "YearOfPassing":"2022",
-      "Achievements":"Certification"
     },
     {
       "UniversityName":"American University of Paris",
       "specialization":"Philosophy & Psychology",
-      "MonthOfPassing":"May",
-      "YearOfPassing":"2020",
+      "MonthOfPassing":"",
+      "YearOfPassing":"",
       "Achievements":"Bachelor's (BA)"
+    },
+    {
+      "UniversityName":"University of Birmingham (UK)",
+      "specialization":"Full-Stack Coding Bootcamp",
+      "MonthOfPassing":"",
+      "YearOfPassing":"",
+      "Achievements":"Certification"
     },
     // {
     //   "UniversityName":"American University of Paris",
@@ -85,8 +85,8 @@ let resumeData = {
     {
       "UniversityName":"International TEFL Training Institute",
       "specialization":"Teaching English as a Foreign Language",
-      "MonthOfPassing":"June",
-      "YearOfPassing":"2020",
+      "MonthOfPassing":"",
+      "YearOfPassing":"",
       "Achievements":"Certification"
     }
   ],
