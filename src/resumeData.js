@@ -6,7 +6,7 @@ let resumeData = {
   "contactLinkText": " (Through My Business Website)",
   "primaryEmail": "blanfried@gmail.com",
   "secondaryEmail": "blanfried@yahoo.com",
-  "role": "Philosopher | Entrepreneur | Website Designer |",
+  "role": "Website Designer | Educator | Entrepreneur | Philosopher |",
   "linkedinId":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
   "roleDescription": " This webpage was created by, and is devoted to, moi-même. *Last Updated: October 2024",
   "socialLinks":[
@@ -202,22 +202,31 @@ let resumeData = {
   "skills":[
     // If add a skill, change corresponding css class in layout under skill bars
     {
+      "skillname":"Webflow"
+    },
+    {
+      "skillname":"Shopify"
+    },
+    {
+      "skillname":"Figma"
+    },
+    {
+      "skillname":"Website Design"
+    },
+    {
+      "skillname":"UI/UX Design"
+    },
+    {
+      "skillname":"HTML, CSS, JavaScript"
+    },
+    {
+      "skillname":"Copywriting"
+    },
+    {
       "skillname":"Interpersonal"
     },
     {
-      "skillname":"Problem-Solving"
-    },
-    {
-      "skillname":"Web-Development"
-    },
-    {
-      "skillname":"Writing"
-    },
-    {
-      "skillname":"Editing"
-    },
-    {
-      "skillname":"Video-Editing"
+      "skillname":"Problem Solving"
     }
   ],
   // Photos need to be 1280 x 720. Otherwise it will not look as clean.
