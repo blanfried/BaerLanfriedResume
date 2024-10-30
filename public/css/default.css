@@ -142,7 +142,7 @@ html {
 }
 
 body {
-   background: #fff;
+   background: #fffcf8;
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;
    font-size: 15px;
@@ -158,7 +158,7 @@ body {
 --------------------------------------------------------------------- */
 
 h1, h2, h3, h4, h5, h6 {
-   color: #313131;
+   color: #323232;
 	font-family: 'opensans-bold', sans-serif;
    font-weight: normal;
 }
@@ -288,14 +288,14 @@ hr { border: solid #E3E3E3; border-width: 1px 0 0; clear: both; margin: 11px 0 3
 a, a:visited {
    text-decoration: none;
    outline: 0;
-   color: #f15f5f;
+   color: #ffa840;
 
    -webkit-transition: color .3s ease-in-out;
    -moz-transition: color .3s ease-in-out;
    -o-transition: color .3s ease-in-out;
    transition: color .3s ease-in-out;
 }
-a:hover, a:focus { color: #313131; }
+a:hover, a:focus { color: #323232; }
 p a, p a:visited { line-height: inherit; }
 
 
@@ -346,10 +346,10 @@ li p { }
 	font-size: 22px;
 	font-family: 'opensans-bold', sans-serif;
    border: none;
-   color: #313131;
+   color: #323232;
 }
 .stats-tabs li a:hover {
-   color:#f15f5f;
+   color:#ffa840;
 }
 .stats-tabs li a b {
 	display: block;
@@ -361,7 +361,7 @@ li p { }
 
 /* definition list */
 dl { margin: 12px 0; }
-dt { margin: 0; color:#f15f5f; }
+dt { margin: 0; color:#ffa840; }
 dd { margin: 0 0 0 20px; }
 
 /* Lining Definition Style Markup */
@@ -432,12 +432,12 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .page-numbers:hover {
    background: #838A91;
-   color: #fff;
+   color: #fffcf8;
 }
 .pagination .current,
 .pagination .current:hover {
-   background-color: #f15f5f;
-   color: #fff;
+   background-color: #ffa840;
+   color: #fffcf8;
 }
 .pagination .inactive,
 .pagination .inactive:hover {
@@ -464,11 +464,11 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #f15f5f;
+   background: #ffa840;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
-   color: #fff;
+   color: #fffcf8;
 	padding: 12px 20px;
 	margin-bottom: 18px;
    border: none;
@@ -493,7 +493,7 @@ input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
    background: #3d4145;
-   color: #fff;
+   color: #fffcf8;
 }
 
 .button:active,
@@ -502,7 +502,7 @@ input[type="submit"]:active,
 input[type="reset"]:active,
 input[type="button"]:active {
    background: #3d4145;
-   color: #fff;
+   color: #fffcf8;
 }
 
 .button.full-width,
