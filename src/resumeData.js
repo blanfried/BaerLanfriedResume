@@ -118,7 +118,7 @@ let resumeData = {
       "specialization":"Philosophy, English, Writing, Web Development",
       "MonthOfLeaving":"January 2019 -",
       "YearOfLeaving":"Present",
-      "Achievements":"With nearly 1200 hours of tutoring experience amassed over the last 5 years, I primarily offer my services online through various platforms in both the US and UK. While my recent endeavors concentrate on Philosophy, my tutoring history also includes Writing, all things English, Psychology, Web Development (HTML, CSS, JS), French, and Spanish."
+      "Achievements":"With nearly 1200 hours of tutoring experience amassed over the last 6 years, I primarily offer my services online through various platforms in both the US and UK. While my recent endeavors concentrate on Philosophy, my tutoring history also includes Writing, all things English, Psychology, Web Development (HTML, CSS, JS), French, and Spanish."
     },
     {
       "CompanyName":"Baer Lanfried (Youtube & TikTok)",
