@@ -109,7 +109,7 @@ let resumeData = {
     {
       "CompanyName":"Freelance UI/UX & Software Engineer",
       "specialization":"Full-Stack and CMS",
-      "MonthOfLeaving":"June 2022 -",
+      "MonthOfLeaving":"June 2021 -",
       "YearOfLeaving":"Present",
       "Achievements":"Before starting TheBaerBones, I was contracted to create, design, and manage websites and software for Interior Design, Music Production, Musical Talent Acquisition, Chamber of Commerce, Agritourism, Demolition, Construction, Artisan Catering, European Cooking Course, and Vacation Rental companies."
     },
