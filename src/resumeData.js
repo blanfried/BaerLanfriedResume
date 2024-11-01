@@ -114,11 +114,11 @@ let resumeData = {
       "Achievements":"Before starting TheBaerBones, I was contracted to create, design, and manage websites and software for Interior Design, Music Production, Musical Talent Acquisition, Chamber of Commerce, Agritourism, Demolition, Construction, Artisan Catering, European Cooking Course, and Vacation Rental companies."
     },
     {
-      "CompanyName":"Tutor (Online and in Person)",
-      "specialization":"Philosophy, English, Writing, French, & Spanish",
+      "CompanyName":"Educator (Online and in Person)",
+      "specialization":"Philosophy, English, Writing, Web Development",
       "MonthOfLeaving":"January 2019 -",
       "YearOfLeaving":"Present",
-      "Achievements":"With nearly 1200 hours of tutoring experience amassed over the last 5 years, I primarily offer my services online through various platforms in both the US and UK. While my recent endeavors concentrate on Philosophy, my tutoring history also includes Writing, all things English, Psychology, and some French and Spanish."
+      "Achievements":"With nearly 1200 hours of tutoring experience amassed over the last 5 years, I primarily offer my services online through various platforms in both the US and UK. While my recent endeavors concentrate on Philosophy, my tutoring history also includes Writing, all things English, Psychology, Web Development (HTML, CSS, JS), French, and Spanish."
     },
     {
       "CompanyName":"Baer Lanfried (Youtube & TikTok)",
