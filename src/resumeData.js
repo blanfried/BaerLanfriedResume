@@ -51,7 +51,7 @@ let resumeData = {
         "className":"fab fa-tiktok"
       }
     ],
-  "aboutme":"I grew up in Southern California but have spent the majority of my adult life living in France and the United Kingdom. These days, I live semi-nomadically but principally between California (with my family) and Wales (with my girlfriend). I'm building my business (TheBaerBones.com) and educating when and where I can. Professional languages: English | French | Spanish",
+  "aboutme":"I grew up in Southern California but have spent the majority of my adult life living in France and the United Kingdom. These days, I live principally between California (with my family) and Wales (with my girlfriend). I'm building my business (TheBaerBones.com) and educating when and where I can. Professional languages: English | French | Spanish",
   "address":"PO Box 580, Pauma Valley, CA 92061, USA",
   "education":[
     {
