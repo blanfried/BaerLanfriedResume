@@ -100,11 +100,11 @@ let resumeData = {
       "Achievements":"Founder of a branding and website creation business focused on Storytelling. TheBaerBones reflects my desire to get to the heart of someone and what they want to achieve professionally and use that to create a website which reflects their soul."
     },
     {
-      "CompanyName":"Chief Technical Officer at SAAS Startup",
+      "CompanyName":"Tech Team Head at SAAS Startup",
       "specialization":"Vinissimoenology",
       "MonthOfLeaving":"June 2024 -",
       "YearOfLeaving":"Present",
-      "Achievements":"I am the current CTO for a beverage inventory SAAS start-up based in Italy, called Vinissimo. I am the primary UI/UX Designer and Frontend Engineer. I manage the tech team as a whole. Currently building and testing software, planned release Spring 2025."
+      "Achievements":"I am the current Tech Team Head for a beverage inventory SAAS start-up based in Italy, called Vinissimo. I am the primary UI/UX Designer and Frontend Engineer. I manage the tech team as a whole. Whilst yet to officially incorporate, we are currently building and testing preliminary software."
     },
     {
       "CompanyName":"Freelance UI/UX & Software Engineer",
