@@ -8,7 +8,7 @@ let resumeData = {
   "secondaryEmail": "blanfried@yahoo.com",
   "role": "Website Designer | Educator | Entrepreneur | Philosopher |",
   "linkedinId":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
-  "roleDescription": " This webpage was created by, and is devoted to, moi-même. *Last Updated: October 2024",
+  "roleDescription": " This webpage was created by, and is devoted to, moi-même. *Last Updated: January 2025",
   "socialLinks":[
       {
         "name":"linkedin",
