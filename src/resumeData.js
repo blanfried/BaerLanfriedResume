@@ -103,7 +103,7 @@ let resumeData = {
       "CompanyName":"Michael Amini | AICO",
       "specialization1":"Business Development, Website Manager",
       "specializationLink":"https://www.amini.com",
-      "MonthOfLeaving":"January 2025 -",
+      "MonthOfLeaving":"February 2025 -",
       "YearOfLeaving":"Present",
       "Achievements":"Working in Business Development at an international furniture manufacturing company. My roles are centered in the marketing department where I strategize new campaigns, write press releases, and manage the company website. I was the lead website designer and developer of the current company website and I continue to update it and redesign it according to new marketing campaigns."
     },
@@ -111,21 +111,21 @@ let resumeData = {
       "CompanyName":"Tech Team Head at SAAS Startup",
       "specialization":"Vinissimoenology",
       "MonthOfLeaving":"June 2024 -",
-      "YearOfLeaving":"January 2025",
+      "YearOfLeaving":"February 2025",
       "Achievements":"I was the Tech Team Head for a beverage inventory SAAS start-up based in Italy, called Vinissimo. I was the primary UI/UX Designer and Frontend Engineer. I manage the tech team as a whole. Whilst I eventually left this role for a new opportunity with AICO, I contributed greatly to the development of their tech."
     },
     {
       "CompanyName":"Freelance UI/UX & Software Engineer",
       "specialization":"Full-Stack and CMS",
       "MonthOfLeaving":"June 2021 -",
-      "YearOfLeaving":"Present",
+      "YearOfLeaving":"February 2025",
       "Achievements":"Before starting TheBaerBones, I was contracted to create, design, and manage websites and software for Interior Design, Music Production, Musical Talent Acquisition, Chamber of Commerce, Agritourism, Demolition, Construction, Artisan Catering, European Cooking Course, and Vacation Rental companies."
     },
     {
       "CompanyName":"Educator (Online and in Person)",
       "specialization":"Philosophy, English, Writing, Web Development",
       "MonthOfLeaving":"January 2019 -",
-      "YearOfLeaving":"Present",
+      "YearOfLeaving":"February 2025",
       "Achievements":"With nearly 1200 hours of tutoring experience amassed over the last 6 years, I primarily offer my services online through various platforms in both the US and UK. While my recent endeavors concentrate on Philosophy, my tutoring history also includes Writing, all things English, Psychology, Web Development (HTML, CSS, JS), French, and Spanish."
     },
     {
