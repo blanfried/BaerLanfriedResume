@@ -249,11 +249,17 @@ let resumeData = {
       "imgurl":"./images/portfolio/ChezAndréaCuisine.png",
       "url":"https://www.chezandreacuisine.com/"
     },
+    // {
+    //   "name":"Chamber of Commerce (Valley Center, CA)",
+    //   "description":"Lead Developer on Valley Center's Chamber of Commerce Website",
+    //   "imgurl":"./images/portfolio/VCChamber.png",
+    //   "url":"https://vcchamber.com"
+    // },
     {
-      "name":"Chamber of Commerce (Valley Center, CA)",
-      "description":"Lead Developer on Valley Center's Chamber of Commerce Website",
-      "imgurl":"./images/portfolio/VCChamber.png",
-      "url":"https://vcchamber.com"
+      "name":"Bourbon & Bokeh",
+      "description":"Cocktail creation and photography website I created for a \"TheBaerBones\" Client",
+      "imgurl":"./images/portfolio/BourbonBokeh.png",
+      "url":"https://bourbonandbokeh.com"
     },
     {
       "name":"Effortless Demolition",
