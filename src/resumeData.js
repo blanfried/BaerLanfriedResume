@@ -112,7 +112,7 @@ let resumeData = {
       "specialization":"Vinissimoenology",
       "MonthOfLeaving":"June 2024 -",
       "YearOfLeaving":"February 2025",
-      "Achievements":"I was the Tech Team Head for a beverage inventory SAAS start-up based in Italy, called Vinissimo. I was the primary UI/UX Designer and Frontend Engineer. I manage the tech team as a whole. Whilst I eventually left this role for a new opportunity with AICO, I contributed greatly to the development of their tech."
+      "Achievements":"I was the Tech Team Head for a beverage inventory SAAS start-up based in Italy, called Vinissimo. I was the primary UI/UX Designer and Frontend Engineer. I manage the tech team as a whole. Whilst I eventually left this role for a new opportunity with AICO, I contributed much to the future development of their tech."
     },
     {
       "CompanyName":"Freelance UI/UX & Software Engineer",
