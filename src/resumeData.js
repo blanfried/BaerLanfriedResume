@@ -51,7 +51,7 @@ let resumeData = {
         "className":"fab fa-tiktok"
       }
     ],
-  "aboutme":"I grew up in Southern California but have spent the majority of my adult life living in France and the United Kingdom. These days, I live principally between California (with my family) and Wales (with my girlfriend). I'm building my business (TheBaerBones.com) and educating when and where I can. Professional languages: English | French | Spanish",
+  "aboutme":"I grew up in Southern California but have spent the majority of my adult life living in France and the United Kingdom. I recently moved back to California for a job opportunity in LA. I am working in Marketing at AICO, designing and managing their website and meeting with sales reps and clients to attune and provide better marketing materials. I am also building my business (TheBaerBones.com) where I, along with my team, create high-end websites. Professional languages: English | French | Spanish",
   "address":"PO Box 580, Pauma Valley, CA 92061, USA",
   "education":[
     {
