@@ -100,8 +100,8 @@ let resumeData = {
       "Achievements":"Founder of a branding and website creation business focused on Storytelling. TheBaerBones reflects my desire to get to the heart of someone and what they want to achieve professionally and use that to create a website which reflects their soul."
     },
     {
-      "CompanyName":"Michael Amini | AICO",
-      "specialization1":"Business Development, Website Manager",
+      "CompanyName":"Business Development & Website Manager at International Furniture Company",
+      "specialization1":"Michael Amini | AICO",
       "specializationLink":"https://www.amini.com",
       "MonthOfLeaving":"February 2025 -",
       "YearOfLeaving":"Present",
