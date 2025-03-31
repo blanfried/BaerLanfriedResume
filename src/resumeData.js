@@ -100,11 +100,19 @@ let resumeData = {
       "Achievements":"Founder of a branding and website creation business focused on Storytelling. TheBaerBones reflects my desire to get to the heart of someone and what they want to achieve professionally and use that to create a website which reflects their soul."
     },
     {
+      "CompanyName":"Michael Amini | AICO",
+      "specialization1":"Business Development, Website Manager",
+      "specializationLink":"https://www.amini.com",
+      "MonthOfLeaving":"January 2025 -",
+      "YearOfLeaving":"Present",
+      "Achievements":"Working in Business Development at an international furniture manufacturing company. My roles are centered in the marketing department where I strategize new campaigns, write press releases, and manage the company website. I was the lead website designer and developer of the current company website and I continue to update it and redesign it according to new marketing campaigns."
+    },
+    {
       "CompanyName":"Tech Team Head at SAAS Startup",
       "specialization":"Vinissimoenology",
       "MonthOfLeaving":"June 2024 -",
-      "YearOfLeaving":"Present",
-      "Achievements":"I am the current Tech Team Head for a beverage inventory SAAS start-up based in Italy, called Vinissimo. I am the primary UI/UX Designer and Frontend Engineer. I manage the tech team as a whole. Whilst yet to officially incorporate, we are currently building and testing preliminary software."
+      "YearOfLeaving":"January 2025",
+      "Achievements":"I was the Tech Team Head for a beverage inventory SAAS start-up based in Italy, called Vinissimo. I was the primary UI/UX Designer and Frontend Engineer. I manage the tech team as a whole. Whilst I eventually left this role for a new opportunity with AICO, I contributed greatly to the development of their tech."
     },
     {
       "CompanyName":"Freelance UI/UX & Software Engineer",
@@ -249,12 +257,6 @@ let resumeData = {
       "imgurl":"./images/portfolio/ChezAndréaCuisine.png",
       "url":"https://www.chezandreacuisine.com/"
     },
-    // {
-    //   "name":"Chamber of Commerce (Valley Center, CA)",
-    //   "description":"Lead Developer on Valley Center's Chamber of Commerce Website",
-    //   "imgurl":"./images/portfolio/VCChamber.png",
-    //   "url":"https://vcchamber.com"
-    // },
     {
       "name":"Bourbon & Bokeh",
       "description":"Cocktail creation and photography website I created for a \"TheBaerBones\" Client",
@@ -303,6 +305,12 @@ let resumeData = {
     //   "imgurl":"./images/portfolio/AcademiaPic.png",
     //   "url": "https://birmingham.academia.edu/BaerLanfried"
     // }
+    // {
+    //   "name":"Chamber of Commerce (Valley Center, CA)",
+    //   "description":"Lead Developer on Valley Center's Chamber of Commerce Website",
+    //   "imgurl":"./images/portfolio/VCChamber.png",
+    //   "url":"https://vcchamber.com"
+    // },
 
 
     // Decided I didn't really like this website
