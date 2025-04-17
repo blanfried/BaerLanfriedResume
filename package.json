@@ -28,5 +28,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "My REACT Portfolio",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blanfried/BaerLanfriedResume.git"
+  },
+  "author": "Baer Lanfried",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blanfried/BaerLanfriedResume/issues"
+  },
+  "homepage": "https://github.com/blanfried/BaerLanfriedResume#readme"
 }

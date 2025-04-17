@@ -6,7 +6,7 @@ let resumeData = {
   "contactLinkText": " (Through My Business Website)",
   "primaryEmail": "blanfried@gmail.com",
   "secondaryEmail": "blanfried@yahoo.com",
-  "role": "Website Designer | Educator | Entrepreneur | Philosopher |",
+  "role": "Website Designer | Digital Storyteller | Philosopher |",
   "linkedinId":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
   "roleDescription": " This webpage was created by, and is devoted to, moi-même. *Last Updated: April 2025",
   "socialLinks":[
@@ -56,7 +56,7 @@ let resumeData = {
   "education":[
     {
       "UniversityName":"University of Birmingham (UK)",
-      "specialization":"Ethics & Philosophy of Religion",
+      "specialization":"Philosophy | Specializing in Ethics",
       "MonthOfPassing":"",
       "YearOfPassing":"",
       "Achievements":"Master's (MA)"
@@ -92,7 +92,7 @@ let resumeData = {
   ],
   "work":[
     {
-      "CompanyName":"Entrepreneur",
+      "CompanyName":"Founder of Website Design Business",
       "specialization1":"TheBaerBones.com",
       "specializationLink":"https://www.TheBaerBones.com",
       "MonthOfLeaving":"September 2023 -",
@@ -108,11 +108,11 @@ let resumeData = {
       "Achievements":"Working in Business Development at an international furniture manufacturing company. My roles are centered in the marketing department where I strategize new campaigns, write press releases, and manage the company website. I was the lead website designer and developer of the current company website and I continue to update it and redesign it according to new marketing campaigns."
     },
     {
-      "CompanyName":"Tech Team Head at SAAS Startup",
+      "CompanyName":"Contractor for SAAS Startup",
       "specialization":"Vinissimoenology",
       "MonthOfLeaving":"June 2024 -",
       "YearOfLeaving":"February 2025",
-      "Achievements":"I was the Tech Team Head for a beverage inventory SAAS start-up based in Italy, called Vinissimo. I was the primary UI/UX Designer and Frontend Engineer. I manage the tech team as a whole. Whilst I eventually left this role for a new opportunity with AICO, I contributed much to the future development of their tech."
+      "Achievements":"I worked as a contractor for a beverage inventory SAAS start-up based in Italy, called Vinissimoenology. I built the initial model for their backend database and translated technical terms between the executives and their tech team to properly execute their vision."
     },
     {
       "CompanyName":"Freelance UI/UX & Software Engineer",
@@ -129,10 +129,10 @@ let resumeData = {
       "Achievements":"With nearly 1200 hours of tutoring experience amassed over the last 6 years, I primarily offer my services online through various platforms in both the US and UK. While my recent endeavors concentrate on Philosophy, my tutoring history also includes Writing, all things English, Psychology, Web Development (HTML, CSS, JS), French, and Spanish."
     },
     {
-      "CompanyName":"Baer Lanfried (Youtube & TikTok)",
+      "CompanyName":"Baer Lanfried (Youtube)",
       "specialization":"Creator/Educator",
-      "MonthOfLeaving":"August 2020 -",
-      "YearOfLeaving":"Present",
+      "MonthOfLeaving":"August 2020",
+      "YearOfLeaving":"February 2025",
       "Achievements":"Over 225k views and 60,000 hours watched on my YouTube/TikTok videos and shorts (on and off my main channels)."
     },
     {
