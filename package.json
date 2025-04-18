@@ -11,13 +11,13 @@
     "@fortawesome/react-fontawesome": "^0.2.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.1.1",
+    "react-router-dom": "^5.3.4",
+    "react-scripts": "^5.0.1",
     "serve": "^14.2.0"
   },
-
   "engines": {
-  "node": ">=18"
-},
+    "node": ">=18"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -35,7 +35,6 @@
   ],
   "description": "My REACT Portfolio",
   "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/blanfried/BaerLanfriedResume.git"
@@ -45,5 +44,5 @@
   "bugs": {
     "url": "https://github.com/blanfried/BaerLanfriedResume/issues"
   },
-  "homepage": "https://github.com/blanfried/BaerLanfriedResume#readme"
+  "homepage": "https://www.baerlanfried.com/blanfried/BaerLanfriedResume"
 }
