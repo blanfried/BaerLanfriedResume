@@ -6,7 +6,7 @@ let resumeData = {
   "contactLinkText": " (Through My Business Website)",
   "primaryEmail": "blanfried@gmail.com",
   "secondaryEmail": "blanfried@yahoo.com",
-  "role": "Website Designer | Digital Storyteller | Philosopher |",
+  "role": "Website Designer | Philosopher |",
   "linkedinId":"https://www.linkedin.com/in/baer-lanfried-488ab61aa/",
   "roleDescription": " This webpage was created by, and is devoted to, moi-même. *Last Updated: April 2025",
   "socialLinks":[
